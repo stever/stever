@@ -106,17 +106,34 @@ The following sub-sections highlight maintained content you can find in my GitHu
 
 #### Web Apps
 
-- Domain-Driven
 - ZX Play
+- Domain-Driven
 - React Music Website
 - 2019-nCoV
 
 #### Template Repositories
 
-- 
+- Template for a React component UI library using Storybook.
+- Template for porting a command-line C program to a JavaScript library using Emscripten.
 
 #### Docker Container Images
 
+- caddy-auth
+- zxplay
+  - zxplay-auth
+  - zxplay-proxy
+  - zxplay-api-z88dk
+  - zxplay-api-zxbasic
+
 #### Node.js Packages
 
+Emscripten conversion of command-line programs for the ZX Spectrum:
+
+- bas2tap
+- pasmo
+- zmakebas
+
 #### Dev Container Features
+
+- caddy-plus
+- hasura-cli
