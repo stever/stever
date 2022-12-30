@@ -10,7 +10,7 @@ I'm a software developer in my late 40's, from Scotland.
 <li>
   📫 How to reach me:<br/>
   <a rel="me" href="mailto:stever@hey.com"><img align="middle" src="https://img.shields.io/badge/email-stever%40hey.com-5522fa?style=flat&label=&labelColor=white&logo=Hey&logoColor=5522fa"/></a>
-  &nbsp;<a rel="me" href="https://www.linkedin.com/in/csteve"><img align="middle" src="https://img.shields.io/badge/-csteve-blue?style=flat&logo=Linkedin&logoColor=white"/></a>
+  &nbsp;<a rel="me" href="https://www.linkedin.com/in/csteve"><img align="middle" src="https://img.shields.io/badge/-csteve-2266c2?style=flat&logo=Linkedin&logoColor=white"/></a>
   &nbsp;<a rel="me" href="https://mastodon.scot/@stever"><img align="middle" src="https://img.shields.io/badge/email-%40stever%40mastodon.scot-3088d4?style=flat&label=&labelColor=white&logo=Mastodon&logoColor=3088d4"/></a>
 </li>
 </ul>
