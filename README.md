@@ -7,7 +7,12 @@ I'm a software developer in my late 40's, from Scotland.
 <li>🔭 I’m working as a Software Delivery Manager and contributing to frontend, backend, db & devops - building web applications.</li>
 <li>🌱 Exploring potential to grow as a technical content writer, to share productive tech & practices.</li>
 <li>⚡ In my free time I often develop my own apps. Coding and listening to music is a favourite way to pass the time.</li>
-<li>📫 How to reach me:<br/><a href="https://www.linkedin.com/in/csteve"><img align="middle" src="https://img.shields.io/badge/-csteve-blue?style=flat&logo=Linkedin&logoColor=white"/></a></li>
+<li>
+  📫 How to reach me:<br/>
+  <a rel="me" href="mailto:stever@hey.com"><img align="middle" src="https://img.shields.io/badge/email-stever%40hey.com-5522fa?style=flat&label=&labelColor=white&logo=Hey&logoColor=5522fa"/></a>
+  <a rel="me" href="https://mastodon.scot/@stever"><img align="middle" src="https://img.shields.io/badge/email-%40stever%40mastodon.scot-3088d4?style=flat&label=&labelColor=white&logo=Mastodon&logoColor=3088d4"/></a>
+  <a rel="me" href="https://www.linkedin.com/in/csteve"><img align="middle" src="https://img.shields.io/badge/-csteve-blue?style=flat&logo=Linkedin&logoColor=white"/></a>
+</li>
 </ul>
 
 ---
