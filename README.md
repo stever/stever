@@ -4,9 +4,9 @@ I'm a software developer in my late 40's, from Scotland.
 
 <ul>
 <li>🕹️ I grew up with computers, starting with a Sinclair ZX81, a ZX Spectrum, an Amiga 500, and an Amiga 2000.</li>
-<li>🔭 I’m working as a Software Delivery Manager and contributing to frontend, backend, db & devops - building web applications.</li>
-<li>🌱 Exploring potential to grow as a technical content writer, to share productive tech & practices.</li>
-<li>⚡ In my free time I often develop my own apps. Coding and listening to music is a favourite way to pass the time.</li>
+<li>🔭 I’m working as a Software Delivery Manager and contributing to frontend, backend, db & devops - building web apps.</li>
+<li>🌱 I'm looking to grow as a tech lead, to share knowledge, productive tools & best practices.</li>
+<li>⚡ In my free time I often spend time develop my own software projects. Coding and listening to music is a favourite way to pass the time.</li>
 <li>
   📫 How to reach me:<br/>
   <a rel="me" href="mailto:stever@hey.com"><img align="middle" src="https://img.shields.io/badge/email-stever%40hey.com-5522fa?style=flat&label=&labelColor=white&logo=Hey&logoColor=5522fa"/></a>
@@ -97,3 +97,26 @@ I'm a software developer in my late 40's, from Scotland.
 <img src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-original.svg" title="Debian" alt="Debian" width="80" height="80"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="80" height="80"/>
 </p>
+
+---
+
+### 💾 &nbsp;Shared Work
+
+The following sub-sections highlight maintained content you can find in my GitHub account here:
+
+#### Web Apps
+
+- Domain-Driven
+- ZX Play
+- React Music Website
+- 2019-nCoV
+
+#### Template Repositories
+
+- 
+
+#### Docker Container Images
+
+#### Node.js Packages
+
+#### Dev Container Features
