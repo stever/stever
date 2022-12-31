@@ -119,8 +119,8 @@ The following sub-sections highlight maintained content you can find in my GitHu
 
 #### Template Repositories
 
-- Template for a React component UI library using Storybook.
-- Template for porting a command-line C program to a JavaScript library using Emscripten.
+- [Template for a React component UI library using Storybook.](https://github.com/stever/react-ui-npm-template)
+- [Template for porting a command-line C program to a JavaScript library using Emscripten.](https://github.com/stever/emscripten-fs-template)
 
 #### Docker Container Images
 
