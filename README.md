@@ -65,7 +65,7 @@ I'm a software developer in my late 40's, from Scotland.
 <a href="https://www.latex-project.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" title="Latex" alt="Latex" width="80" height="80"/></a>
 <a href="https://www.gnu.org/software/bash/"><img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="80" height="80"/></a>
 <a href="https://www.vim.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" title="Vim" alt="Vim" width="80" height="80"/></a>
-<a href="https://www.docker.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="80" height="80"/></a>
+<a href="https://www.docker.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain-wordmark.svg" title="Docker" alt="Docker" width="80" height="80"/></a>
 <a href="https://kubernetes.io/"><img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" title="Kubernetes" alt="Kubernetes" width="80" height="80"/></a>
 <a href="https://k3s.io/"><img src="https://github.com/devicons/devicon/blob/master/icons/k3s/k3s-original.svg" title="k3s" alt="k3s" width="80" height="80"/></a>
 <a href="https://openjdk.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="80" height="80"/></a>
