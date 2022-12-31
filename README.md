@@ -112,10 +112,10 @@ The following sub-sections highlight maintained content you can find in my GitHu
 
 #### Web Apps
 
-- [ZX Play](https://github.com/stever/zxplay)
-- [Domain-Driven](https://github.com/stever/domaindriven)
-- [2019-nCoV](https://github.com/stever/covid)
-- [Playnode](https://github.com/stever/playnode)
+- **[ZX Play](https://github.com/stever/zxplay)**
+- **[Domain-Driven](https://github.com/stever/domaindriven)**
+- **[2019-nCoV](https://github.com/stever/covid)**
+- **[Playnode](https://github.com/stever/playnode)**
 
 #### Template Repositories
 
@@ -124,22 +124,22 @@ The following sub-sections highlight maintained content you can find in my GitHu
 
 #### Docker Container Images
 
-- [caddy-auth](https://github.com/stever/caddy-auth/pkgs/container/caddy-auth)
-- [zxplay](https://github.com/stever/zxplay/pkgs/container/zxplay)
-  - [zxplay-auth](https://github.com/stever/zxplay-auth/pkgs/container/zxplay-auth)
-  - [zxplay-proxy](https://github.com/stever/zxplay-proxy/pkgs/container/zxplay-proxy)
-  - [zxplay-api-z88dk](https://github.com/stever/zxplay-api-z88dk/pkgs/container/zxplay-api-z88dk)
-  - [zxplay-api-zxbasic](https://github.com/stever/zxplay-api-zxbasic/pkgs/container/zxplay-api-zxbasic)
+- **[caddy-auth](https://github.com/stever/caddy-auth/pkgs/container/caddy-auth)**
+- **[zxplay](https://github.com/stever/zxplay/pkgs/container/zxplay)**
+  - **[zxplay-auth](https://github.com/stever/zxplay-auth/pkgs/container/zxplay-auth)**
+  - **[zxplay-proxy](https://github.com/stever/zxplay-proxy/pkgs/container/zxplay-proxy)**
+  - **[zxplay-api-z88dk](https://github.com/stever/zxplay-api-z88dk/pkgs/container/zxplay-api-z88dk)**
+  - **[zxplay-api-zxbasic](https://github.com/stever/zxplay-api-zxbasic/pkgs/container/zxplay-api-zxbasic)**
 
 #### Node.js Packages
 
 Emscripten conversion of command-line programs for the ZX Spectrum:
 
-- [bas2tap](https://www.npmjs.com/package/bas2tap)
-- [pasmo](https://www.npmjs.com/package/pasmo)
-- [zmakebas](https://www.npmjs.com/package/zmakebas)
+- **[bas2tap](https://www.npmjs.com/package/bas2tap)**
+- **[pasmo](https://www.npmjs.com/package/pasmo)**
+- **[zmakebas](https://www.npmjs.com/package/zmakebas)**
 
 #### Dev Container Features
 
-- [caddy-plus](https://github.com/stever/devcontainer-features/pkgs/container/devcontainer-features%2Fcaddy-plus)
-- [hasura-cli](https://github.com/stever/devcontainer-features/pkgs/container/devcontainer-features%2Fhasura-cli)
+- **[caddy-plus](https://github.com/stever/devcontainer-features/pkgs/container/devcontainer-features%2Fcaddy-plus)** Caddy plus additional extensions (caddy-security)
+- **[hasura-cli](https://github.com/stever/devcontainer-features/pkgs/container/devcontainer-features%2Fhasura-cli)** The Hasura CLI is a command-line tool you can use to manage your Hasura instances.
