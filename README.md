@@ -79,11 +79,6 @@ I'm a software developer in my late 40's, from Scotland.
 <a href="https://numpy.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title="NumPy" alt="NumPy" width="80" height="80"/></a>
 <a href="https://pandas.pydata.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas" alt="Pandas" width="80" height="80"/></a>
 <a href="https://www.sqlalchemy.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/sqlalchemy/sqlalchemy-original.svg" title="SQL Alchemy" alt="SQL Alchemy" width="80" height="80"/></a>
-<a href="https://www.postgresql.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="80" height="80"/></a>
-<a href="https://www.sqlite.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" title="SQLite" alt="SQLite" width="80" height="80"/></a>
-<a href="https://mariadb.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="80" height="80"/></a>
-<a href="https://www.mongodb.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="80" height="80"/></a>
-<a href="https://redis.io/"><img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg" title="Redis" alt="Redis" width="80" height="80"/></a>
 <a href="https://go.dev/"><img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" title="Go" alt="Go" width="80" height="80"/></a>
 <a href="https://www.rust-lang.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg" title="Rust" alt="Rust" width="80" height="80"/></a>
 <a href="https://www.lua.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/lua/lua-original-wordmark.svg" title="Lua" alt="Lua" width="80" height="80"/></a>
@@ -92,6 +87,11 @@ I'm a software developer in my late 40's, from Scotland.
 <a href="https://en.wikipedia.org/wiki/Markdown"><img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" title="Markdown" alt="Markdown" width="80" height="80"/></a>
 <a href="https://nginx.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" title="NGiNX" alt="NGiNX" width="80" height="80"/></a>
 <a href="https://en.wikipedia.org/wiki/Secure_Shell"><img src="https://github.com/devicons/devicon/blob/master/icons/ssh/ssh-original.svg" title="SSH" alt="SSH" width="80" height="80"/></a>
+<a href="https://www.postgresql.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="80" height="80"/></a>
+<a href="https://www.sqlite.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" title="SQLite" alt="SQLite" width="80" height="80"/></a>
+<a href="https://mariadb.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="80" height="80"/></a>
+<a href="https://www.mongodb.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="80" height="80"/></a>
+<a href="https://redis.io/"><img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg" title="Redis" alt="Redis" width="80" height="80"/></a>
 <a href="https://ubuntu.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" title="Ubuntu" alt="Ubuntu" width="80" height="80"/></a>
 <a href="https://www.raspberrypi.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg" title="Raspberry Pi" alt="Raspberry Pi" width="80" height="80"/></a>
 <a href="https://www.debian.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-original.svg" title="Debian" alt="Debian" width="80" height="80"/></a>
