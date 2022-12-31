@@ -132,6 +132,11 @@ The following sub-sections highlight maintained content you can find in my GitHu
   - **[zxplay-proxy](https://github.com/stever/zxplay-proxy/pkgs/container/zxplay-proxy)**
   - **[zxplay-api-z88dk](https://github.com/stever/zxplay-api-z88dk/pkgs/container/zxplay-api-z88dk)**
   - **[zxplay-api-zxbasic](https://github.com/stever/zxplay-api-zxbasic/pkgs/container/zxplay-api-zxbasic)**
+- **[domaindriven](https://github.com/stever/domaindriven/pkgs/container/domaindriven)**
+  - **[domaindriven-auth](https://github.com/stever/domaindriven/pkgs/container/domaindriven-auth)**
+  - **[domaindriven-proxy](https://github.com/stever/domaindriven/pkgs/container/domaindriven-proxy)**
+  - **[domaindriven-funcs](https://github.com/stever/domaindriven/pkgs/container/domaindriven-funcs)**
+- **[covid](https://github.com/stever/covid/pkgs/container/covid)**
 
 #### Node.js Packages
 
