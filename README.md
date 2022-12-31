@@ -115,7 +115,7 @@ The following sub-sections highlight maintained content you can find in my GitHu
 - [ZX Play](https://github.com/stever/zxplay)
 - [Domain-Driven](https://github.com/stever/domaindriven)
 - [2019-nCoV](https://github.com/stever/covid)
-- [React Music Website](https://github.com/stever/react-music-website)
+- [Playnode](https://github.com/stever/playnode)
 
 #### Template Repositories
 
