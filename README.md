@@ -135,11 +135,11 @@ The following sub-sections highlight maintained content you can find in my GitHu
 
 Emscripten conversion of command-line programs for the ZX Spectrum:
 
-- bas2tap
-- pasmo
-- zmakebas
+- [bas2tap](https://www.npmjs.com/package/bas2tap)
+- [pasmo](https://www.npmjs.com/package/pasmo)
+- [zmakebas](https://www.npmjs.com/package/zmakebas)
 
 #### Dev Container Features
 
-- caddy-plus
-- hasura-cli
+- [caddy-plus](https://github.com/stever/devcontainer-features/pkgs/container/devcontainer-features%2Fcaddy-plus)
+- [hasura-cli](https://github.com/stever/devcontainer-features/pkgs/container/devcontainer-features%2Fhasura-cli)
