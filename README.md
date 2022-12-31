@@ -77,7 +77,7 @@ I'm a software developer in my late 40's, from Scotland.
 <a href="https://jupyter.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" alt="Jupyter" width="80" height="80"/></a>
 <a href="https://docs.pytest.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/pytest/pytest-original-wordmark.svg" title="pytest" alt="pytest" width="80" height="80"/></a>
 <a href="https://numpy.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title="NumPy" alt="NumPy" width="80" height="80"/></a>
-<a href="https://pandas.pydata.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="80" height="80"/></a>
+<a href="https://pandas.pydata.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas" alt="Pandas" width="80" height="80"/></a>
 <a href="https://www.sqlalchemy.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/sqlalchemy/sqlalchemy-original.svg" title="SQL Alchemy" alt="SQL Alchemy" width="80" height="80"/></a>
 <a href="https://www.postgresql.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="80" height="80"/></a>
 <a href="https://www.sqlite.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" title="SQLite" alt="SQLite" width="80" height="80"/></a>
