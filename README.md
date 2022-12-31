@@ -78,6 +78,7 @@ I'm a software developer in my late 40's, from Scotland.
 <a href="https://docs.pytest.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/pytest/pytest-original-wordmark.svg" title="pytest" alt="pytest" width="80" height="80"/></a>
 <a href="https://numpy.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title="NumPy" alt="NumPy" width="80" height="80"/></a>
 <a href="https://pandas.pydata.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas" alt="Pandas" width="80" height="80"/></a>
+<a href="https://matplotlib.org/"><img src="https://github.com/stever/stever/blob/main/images/3rd-party-logos/Matplotlib.png" title="Matplotlib" alt="Matplotlib" width="80" height="80"/></a>
 <a href="https://www.sqlalchemy.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/sqlalchemy/sqlalchemy-original.svg" title="SQL Alchemy" alt="SQL Alchemy" width="80" height="80"/></a>
 <a href="https://go.dev/"><img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" title="Go" alt="Go" width="80" height="80"/></a>
 <a href="https://www.rust-lang.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg" title="Rust" alt="Rust" width="80" height="80"/></a>
@@ -85,7 +86,6 @@ I'm a software developer in my late 40's, from Scotland.
 <a href="https://www.php.net/"><img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="80" height="80"/></a>
 <a href="https://wordpress.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-plain.svg" title="WordPress" alt="WordPress" width="80" height="80"/></a>
 <a href="https://en.wikipedia.org/wiki/Markdown"><img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" title="Markdown" alt="Markdown" width="80" height="80"/></a>
-<a href="https://nginx.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" title="NGiNX" alt="NGiNX" width="80" height="80"/></a>
 <a href="https://www.postgresql.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="80" height="80"/></a>
 <a href="https://www.microsoft.com/sql-server"><img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" title="Microsoft SQL Server" alt="Microsoft SQL Server" width="80" height="80"/></a>
 <a href="https://www.sqlite.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" title="SQLite" alt="SQLite" width="80" height="80"/></a>
@@ -98,7 +98,7 @@ I'm a software developer in my late 40's, from Scotland.
 <a href="https://kernel.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="80" height="80"/></a>
 <a href="https://hasura.io/"><img src="https://github.com/stever/stever/blob/main/images/3rd-party-logos/Hasura.png" title="Hasura" alt="Hasura" width="80" height="80"/></a>
 <a href="https://caddyserver.com/"><img src="https://github.com/stever/stever/blob/main/images/3rd-party-logos/Caddy.png" title="Caddy" alt="Caddy" width="80" height="80"/></a>
-<a href="https://www.keycloak.org/"><img src="https://github.com/stever/stever/blob/main/images/3rd-party-logos/Keycloak.png" title="Keycloak" alt="Keycloak" width="80" height="80"/></a>
+<a href="https://nginx.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" title="NGiNX" alt="NGiNX" width="80" height="80"/></a>
 <a href="https://www.primefaces.org/primereact/"><img src="https://github.com/stever/stever/blob/main/images/3rd-party-logos/PrimeReact.png" title="PrimeReact" alt="PrimeReact" width="80" height="80"/></a>
 <a href="https://redux-saga.js.org/"><img src="https://github.com/stever/stever/blob/main/images/3rd-party-logos/Redux-Saga.png" title="Redux-Saga" alt="Redux-Saga" width="80" height="80"/></a>
 <a href="https://www.antlr.org/"><img src="https://github.com/stever/stever/blob/main/images/3rd-party-logos/ANTLR.png" title="ANTLR" alt="ANTLR" width="80" height="80"/></a>
@@ -115,7 +115,7 @@ I'm a software developer in my late 40's, from Scotland.
 <a href="https://cefsharp.github.io/"><img src="https://github.com/stever/stever/blob/main/images/3rd-party-logos/CefSharp.png" title="CefSharp" alt="CefSharp" width="80" height="80"/></a>
 <a href="https://www.qgis.org/"><img src="https://github.com/stever/stever/blob/main/images/3rd-party-logos/QGIS.png" title="QGIS" alt="QGIS" width="80" height="80"/></a>
 <a href="https://pptr.dev/"><img src="https://github.com/stever/stever/blob/main/images/3rd-party-logos/Puppeteer.png" title="Puppeteer" alt="Puppeteer" width="80" height="80"/></a>
-<a href="https://matplotlib.org/"><img src="https://github.com/stever/stever/blob/main/images/3rd-party-logos/Matplotlib.png" title="Matplotlib" alt="Matplotlib" width="80" height="80"/></a>
+<a href="https://www.keycloak.org/"><img src="https://github.com/stever/stever/blob/main/images/3rd-party-logos/Keycloak.png" title="Keycloak" alt="Keycloak" width="80" height="80"/></a>
 </p>
 
 The following sub-sections highlight maintained content you can find in my GitHub account here:
