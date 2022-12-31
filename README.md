@@ -100,7 +100,7 @@ I'm a software developer in my late 40's, from Scotland.
 
 ---
 
-### 💾 &nbsp;Shared Work
+### 💾 &nbsp;Resources
 
 The following sub-sections highlight maintained content you can find in my GitHub account here:
 
