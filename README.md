@@ -74,7 +74,7 @@ I'm a software developer in my late 40's, from Scotland.
 <a href="https://tomcat.apache.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/tomcat/tomcat-original.svg" title="Tomcat" alt="Tomcat" width="80" height="80"/></a>
 <a href="https://www.python.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="80" height="80"/></a>
 <a href="https://fastapi.tiangolo.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg" title="FastAPI" alt="FastAPI" width="80" height="80"/></a>
-<a href="https://jupyter.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" title="Jupyter" alt="Jupyter" width="80" height="80"/></a>
+<a href="https://jupyter.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" alt="Jupyter" width="80" height="80"/></a>
 <a href="https://docs.pytest.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/pytest/pytest-original.svg" title="pytest" alt="pytest" width="80" height="80"/></a>
 <a href="https://numpy.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title="NumPy" alt="NumPy" width="80" height="80"/></a>
 <a href="https://pandas.pydata.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="80" height="80"/></a>
