@@ -71,7 +71,7 @@ I'm a software developer in my late 40's, from Scotland.
 <a href="https://openjdk.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="80" height="80"/></a>
 <a href="https://scala-lang.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/scala/scala-original.svg" title="Scala" alt="Scala" width="80" height="80"/></a>
 <a href="https://www.jetbrains.com/idea/"><img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" title="IntelliJ" alt="IntelliJ" width="80" height="80"/></a>
-<a href="https://tomcat.apache.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/tomcat/tomcat-original.svg" title="Tomcat" alt="Tomcat" width="80" height="80"/></a>
+<a href="https://tomcat.apache.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/tomcat/tomcat-original-wordmark.svg" title="Tomcat" alt="Tomcat" width="80" height="80"/></a>
 <a href="https://www.python.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="80" height="80"/></a>
 <a href="https://fastapi.tiangolo.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg" title="FastAPI" alt="FastAPI" width="80" height="80"/></a>
 <a href="https://jupyter.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" alt="Jupyter" width="80" height="80"/></a>
