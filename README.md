@@ -96,23 +96,26 @@ I'm a software developer in my late 40's, from Scotland.
 <a href="https://www.raspberrypi.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg" title="Raspberry Pi" alt="Raspberry Pi" width="80" height="80"/></a>
 <a href="https://www.debian.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-original.svg" title="Debian" alt="Debian" width="80" height="80"/></a>
 <a href="https://kernel.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="80" height="80"/></a>
-<a href=""><img src="https://github.com/stever/stever/blob/main/images/3rd-party-logos/Hasura.png" title="Hasura" alt="Hasura" width="80" height="80"/></a>
-<a href=""><img src="https://github.com/stever/stever/blob/main/images/3rd-party-logos/Caddy.png" title="Caddy" alt="Caddy" width="80" height="80"/></a>
-<a href=""><img src="https://github.com/stever/stever/blob/main/images/3rd-party-logos/Keycloak.png" title="Keycloak" alt="Keycloak" width="80" height="80"/></a>
-<a href=""><img src="https://github.com/stever/stever/blob/main/images/3rd-party-logos/PrimeReact.png" title="PrimeReact" alt="PrimeReact" width="80" height="80"/></a>
-<a href=""><img src="https://github.com/stever/stever/blob/main/images/3rd-party-logos/Redux-Saga.png" title="Redux-Saga" alt="Redux-Saga" width="80" height="80"/></a>
-<a href=""><img src="https://github.com/stever/stever/blob/main/images/3rd-party-logos/ANTLR.png" title="ANTLR" alt="ANTLR" width="80" height="80"/></a>
-<a href=""><img src="https://github.com/stever/stever/blob/main/images/3rd-party-logos/Cesium.png" title="Cesium" alt="Cesium" width="80" height="80"/></a>
-<a href=""><img src="https://github.com/stever/stever/blob/main/images/3rd-party-logos/Elasticsearch.png" title="Elasticsearch" alt="Elasticsearch" width="80" height="80"/></a>
-<a href=""><img src="https://github.com/stever/stever/blob/main/images/3rd-party-logos/Lucene.png" title="Lucene" alt="Lucene" width="80" height="80"/></a>
-<a href=""><img src="https://github.com/stever/stever/blob/main/images/3rd-party-logos/Linode.png" title="Linode" alt="Linode" width="80" height="80"/></a>
-<a href=""><img src="https://github.com/stever/stever/blob/main/images/3rd-party-logos/Gitea.png" title="Gitea" alt="Gitea" width="80" height="80"/></a>
-<a href=""><img src="https://github.com/stever/stever/blob/main/images/3rd-party-logos/Drone.png" title="Drone" alt="Drone" width="80" height="80"/></a>
-<a href=""><img src="https://github.com/stever/stever/blob/main/images/3rd-party-logos/DokuWiki.png" title="DokuWiki" alt="DokuWiki" width="80" height="80"/></a>
-<a href=""><img src="https://github.com/stever/stever/blob/main/images/3rd-party-logos/PlantUML.png" title="PlantUML" alt="PlantUML" width="80" height="80"/></a>
-<a href=""><img src="https://github.com/stever/stever/blob/main/images/3rd-party-logos/Scaled Agile.png" title="Scaled Agile" alt="Scaled Agile" width="80" height="80"/></a>
-<a href=""><img src="https://github.com/stever/stever/blob/main/images/3rd-party-logos/Excel.png" title="Excel" alt="Excel" width="80" height="80"/></a>
-<a href=""><img src="https://github.com/stever/stever/blob/main/images/3rd-party-logos/CefSharp.png" title="CefSharp" alt="CefSharp" width="80" height="80"/></a>
+<a href="https://hasura.io/"><img src="https://github.com/stever/stever/blob/main/images/3rd-party-logos/Hasura.png" title="Hasura" alt="Hasura" width="80" height="80"/></a>
+<a href="https://caddyserver.com/"><img src="https://github.com/stever/stever/blob/main/images/3rd-party-logos/Caddy.png" title="Caddy" alt="Caddy" width="80" height="80"/></a>
+<a href="https://www.keycloak.org/"><img src="https://github.com/stever/stever/blob/main/images/3rd-party-logos/Keycloak.png" title="Keycloak" alt="Keycloak" width="80" height="80"/></a>
+<a href="https://www.primefaces.org/primereact/"><img src="https://github.com/stever/stever/blob/main/images/3rd-party-logos/PrimeReact.png" title="PrimeReact" alt="PrimeReact" width="80" height="80"/></a>
+<a href="https://redux-saga.js.org/"><img src="https://github.com/stever/stever/blob/main/images/3rd-party-logos/Redux-Saga.png" title="Redux-Saga" alt="Redux-Saga" width="80" height="80"/></a>
+<a href="https://www.antlr.org/"><img src="https://github.com/stever/stever/blob/main/images/3rd-party-logos/ANTLR.png" title="ANTLR" alt="ANTLR" width="80" height="80"/></a>
+<a href="https://cesium.com/platform/cesiumjs/"><img src="https://github.com/stever/stever/blob/main/images/3rd-party-logos/Cesium.png" title="CesiumJS" alt="CesiumJS" width="80" height="80"/></a>
+<a href="https://www.elastic.co/elasticsearch/"><img src="https://github.com/stever/stever/blob/main/images/3rd-party-logos/Elasticsearch.png" title="Elasticsearch" alt="Elasticsearch" width="80" height="80"/></a>
+<a href="https://lucene.apache.org/"><img src="https://github.com/stever/stever/blob/main/images/3rd-party-logos/Lucene.png" title="Lucene" alt="Lucene" width="80" height="80"/></a>
+<a href="https://www.linode.com/"><img src="https://github.com/stever/stever/blob/main/images/3rd-party-logos/Linode.png" title="Linode" alt="Linode" width="80" height="80"/></a>
+<a href="https://gitea.io/"><img src="https://github.com/stever/stever/blob/main/images/3rd-party-logos/Gitea.png" title="Gitea" alt="Gitea" width="80" height="80"/></a>
+<a href="https://www.drone.io/"><img src="https://github.com/stever/stever/blob/main/images/3rd-party-logos/Drone.png" title="Drone" alt="Drone" width="80" height="80"/></a>
+<a href="https://www.dokuwiki.org/dokuwiki"><img src="https://github.com/stever/stever/blob/main/images/3rd-party-logos/DokuWiki.png" title="DokuWiki" alt="DokuWiki" width="80" height="80"/></a>
+<a href="https://plantuml.com/"><img src="https://github.com/stever/stever/blob/main/images/3rd-party-logos/PlantUML.png" title="PlantUML" alt="PlantUML" width="80" height="80"/></a>
+<a href="https://scaledagile.com/"><img src="https://github.com/stever/stever/blob/main/images/3rd-party-logos/Scaled Agile.png" title="Scaled Agile" alt="Scaled Agile" width="80" height="80"/></a>
+<a href="https://www.microsoft.com/microsoft-365/excel"><img src="https://github.com/stever/stever/blob/main/images/3rd-party-logos/Excel.png" title="Excel" alt="Excel" width="80" height="80"/></a>
+<a href="https://cefsharp.github.io/"><img src="https://github.com/stever/stever/blob/main/images/3rd-party-logos/CefSharp.png" title="CefSharp" alt="CefSharp" width="80" height="80"/></a>
+<a href="https://www.qgis.org/"><img src="https://github.com/stever/stever/blob/main/images/3rd-party-logos/QGIS.png" title="QGIS" alt="QGIS" width="80" height="80"/></a>
+<a href="https://pptr.dev/"><img src="https://github.com/stever/stever/blob/main/images/3rd-party-logos/Puppeteer.png" title="Puppeteer" alt="Puppeteer" width="80" height="80"/></a>
+<a href="https://matplotlib.org/"><img src="https://github.com/stever/stever/blob/main/images/3rd-party-logos/Matplotlib.png" title="Matplotlib" alt="Matplotlib" width="80" height="80"/></a>
 </p>
 
 The following sub-sections highlight maintained content you can find in my GitHub account here:
