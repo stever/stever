@@ -88,26 +88,31 @@ I'm a software developer in my late 40's, from Scotland.
 <a href="https://nginx.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" title="NGiNX" alt="NGiNX" width="80" height="80"/></a>
 <a href="https://www.postgresql.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="80" height="80"/></a>
 <a href="https://www.microsoft.com/sql-server"><img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" title="Microsoft SQL Server" alt="Microsoft SQL Server" width="80" height="80"/></a>
-<a href="https://mariadb.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="80" height="80"/></a>
 <a href="https://www.sqlite.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" title="SQLite" alt="SQLite" width="80" height="80"/></a>
+<a href="https://mariadb.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="80" height="80"/></a>
 <a href="https://www.mongodb.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="80" height="80"/></a>
 <a href="https://redis.io/"><img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg" title="Redis" alt="Redis" width="80" height="80"/></a>
-<!--<a href="https://en.wikipedia.org/wiki/Secure_Shell"><img src="https://github.com/devicons/devicon/blob/master/icons/ssh/ssh-original.svg" title="SSH" alt="SSH" width="80" height="80"/></a>-->
 <a href="https://ubuntu.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" title="Ubuntu" alt="Ubuntu" width="80" height="80"/></a>
 <a href="https://www.raspberrypi.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg" title="Raspberry Pi" alt="Raspberry Pi" width="80" height="80"/></a>
 <a href="https://www.debian.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-original.svg" title="Debian" alt="Debian" width="80" height="80"/></a>
 <a href="https://kernel.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="80" height="80"/></a>
-</p>
-
----
-
-### 💾 &nbsp;Resources
-
-<p>
-  <a href="https://github.com/stever?tab=repositories"><img align="middle" src="https://img.shields.io/badge/-Repositories-silver?style=flat&label=&labelColor=black&logo=GitHub&logoColor=silver" title="Repositories" alt="Repositories"/></a>
-  &nbsp;<a href="https://gist.github.com/stever/"><img align="middle" src="https://img.shields.io/badge/-Gists-silver?style=flat&label=&labelColor=black&logo=GitHub&logoColor=silver" title="Gists" alt="Gists"/></a>
-  &nbsp;<a href="https://github.com/stever?tab=stars"><img align="middle" src="https://img.shields.io/badge/-Stars-silver?style=flat&label=&labelColor=black&logo=GitHub&logoColor=silver" title="Stars" alt="Stars"/></a>
-  &nbsp;<a href="https://github.com/stever?tab=packages"><img align="middle" src="https://img.shields.io/badge/-Packages-silver?style=flat&label=&labelColor=black&logo=GitHub&logoColor=silver" title="Packages" alt="Packages"/></a>
+<a href=""><img src="https://github.com/stever/stever/blob/main/images/3rd-party-logos/Hasura.png" title="Hasura" alt="Hasura" width="80" height="80"/></a>
+<a href=""><img src="https://github.com/stever/stever/blob/main/images/3rd-party-logos/Caddy.png" title="Caddy" alt="Caddy" width="80" height="80"/></a>
+<a href=""><img src="https://github.com/stever/stever/blob/main/images/3rd-party-logos/Keycloak.png" title="Keycloak" alt="Keycloak" width="80" height="80"/></a>
+<a href=""><img src="https://github.com/stever/stever/blob/main/images/3rd-party-logos/PrimeReact.png" title="PrimeReact" alt="PrimeReact" width="80" height="80"/></a>
+<a href=""><img src="https://github.com/stever/stever/blob/main/images/3rd-party-logos/Redux-Saga.png" title="Redux-Saga" alt="Redux-Saga" width="80" height="80"/></a>
+<a href=""><img src="https://github.com/stever/stever/blob/main/images/3rd-party-logos/ANTLR.png" title="ANTLR" alt="ANTLR" width="80" height="80"/></a>
+<a href=""><img src="https://github.com/stever/stever/blob/main/images/3rd-party-logos/Cesium.png" title="Cesium" alt="Cesium" width="80" height="80"/></a>
+<a href=""><img src="https://github.com/stever/stever/blob/main/images/3rd-party-logos/Elasticsearch.png" title="Elasticsearch" alt="Elasticsearch" width="80" height="80"/></a>
+<a href=""><img src="https://github.com/stever/stever/blob/main/images/3rd-party-logos/Lucene.png" title="Lucene" alt="Lucene" width="80" height="80"/></a>
+<a href=""><img src="https://github.com/stever/stever/blob/main/images/3rd-party-logos/Linode.png" title="Linode" alt="Linode" width="80" height="80"/></a>
+<a href=""><img src="https://github.com/stever/stever/blob/main/images/3rd-party-logos/Gitea.png" title="Gitea" alt="Gitea" width="80" height="80"/></a>
+<a href=""><img src="https://github.com/stever/stever/blob/main/images/3rd-party-logos/Drone.png" title="Drone" alt="Drone" width="80" height="80"/></a>
+<a href=""><img src="https://github.com/stever/stever/blob/main/images/3rd-party-logos/DokuWiki.png" title="DokuWiki" alt="DokuWiki" width="80" height="80"/></a>
+<a href=""><img src="https://github.com/stever/stever/blob/main/images/3rd-party-logos/PlantUML.png" title="PlantUML" alt="PlantUML" width="80" height="80"/></a>
+<a href=""><img src="https://github.com/stever/stever/blob/main/images/3rd-party-logos/Scaled Agile.png" title="Scaled Agile" alt="Scaled Agile" width="80" height="80"/></a>
+<a href=""><img src="https://github.com/stever/stever/blob/main/images/3rd-party-logos/Excel.png" title="Excel" alt="Excel" width="80" height="80"/></a>
+<a href=""><img src="https://github.com/stever/stever/blob/main/images/3rd-party-logos/CefSharp.png" title="CefSharp" alt="CefSharp" width="80" height="80"/></a>
 </p>
 
 The following sub-sections highlight maintained content you can find in my GitHub account here:
