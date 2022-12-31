@@ -112,10 +112,10 @@ The following sub-sections highlight maintained content you can find in my GitHu
 
 #### Web Apps
 
-- [ZX Play](/stever/zxplay)
-- [Domain-Driven](/stever/domaindriven)
-- [2019-nCoV](/stever/covid)
-- [React Music Website](/stever/react-music-website)
+- [ZX Play](./zxplay)
+- [Domain-Driven](./domaindriven)
+- [2019-nCoV](./covid)
+- [React Music Website](./react-music-website)
 
 #### Template Repositories
 
