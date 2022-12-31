@@ -124,12 +124,12 @@ The following sub-sections highlight maintained content you can find in my GitHu
 
 #### Docker Container Images
 
-- caddy-auth
-- zxplay
-  - zxplay-auth
-  - zxplay-proxy
-  - zxplay-api-z88dk
-  - zxplay-api-zxbasic
+- [caddy-auth](https://github.com/stever/caddy-auth/pkgs/container/caddy-auth)
+- [zxplay](https://github.com/stever/zxplay/pkgs/container/zxplay)
+  - [zxplay-auth](https://github.com/stever/zxplay-auth/pkgs/container/zxplay-auth)
+  - [zxplay-proxy](https://github.com/stever/zxplay-proxy/pkgs/container/zxplay-proxy)
+  - [zxplay-api-z88dk](https://github.com/stever/zxplay-api-z88dk/pkgs/container/zxplay-api-z88dk)
+  - [zxplay-api-zxbasic](https://github.com/stever/zxplay-api-zxbasic/pkgs/container/zxplay-api-zxbasic)
 
 #### Node.js Packages
 
