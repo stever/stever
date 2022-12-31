@@ -91,7 +91,7 @@ I'm a software developer in my late 40's, from Scotland.
 <a href="https://wordpress.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-plain.svg" title="WordPress" alt="WordPress" width="80" height="80"/></a>
 <a href="https://en.wikipedia.org/wiki/Markdown"><img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" title="Markdown" alt="Markdown" width="80" height="80"/></a>
 <a href="https://nginx.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" title="NGiNX" alt="NGiNX" width="80" height="80"/></a>
-<a href="https://en.wikipedia.org/wiki/Secure_Shell"><img src="https://github.com/devicons/devicon/blob/master/icons/ssh/ssh-original.svg" title="SSH" alt="SSH" width="80" height="80"/></a>
+<a href="https://en.wikipedia.org/wiki/Secure_Shell"><img src="https://github.com/devicons/devicon/blob/master/icons/ssh/ssh-original-wordmark.svg" title="SSH" alt="SSH" width="80" height="80"/></a>
 <a href="https://ubuntu.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" title="Ubuntu" alt="Ubuntu" width="80" height="80"/></a>
 <a href="https://www.raspberrypi.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg" title="Raspberry Pi" alt="Raspberry Pi" width="80" height="80"/></a>
 <a href="https://www.debian.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-original.svg" title="Debian" alt="Debian" width="80" height="80"/></a>
