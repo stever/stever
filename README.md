@@ -118,6 +118,10 @@ I'm a software developer in my late 40's, from Scotland.
 <a href="https://www.keycloak.org/"><img src="https://github.com/stever/stever/blob/main/images/3rd-party-logos/Keycloak.png" title="Keycloak" alt="Keycloak" width="80" height="80"/></a>
 </p>
 
+---
+
+### 💾 &nbsp;Resources
+
 The following sub-sections highlight maintained content you can find in my GitHub account here:
 
 #### Web Apps
