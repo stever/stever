@@ -101,10 +101,10 @@ I'm a software developer in my late 40's, from Scotland.
 <a href="https://nginx.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" title="NGiNX" alt="NGiNX" width="80" height="80"/></a>
 <a href="https://www.primefaces.org/primereact/"><img src="https://github.com/stever/stever/blob/main/images/3rd-party-logos/PrimeReact.png" title="PrimeReact" alt="PrimeReact" width="80" height="80"/></a>
 <a href="https://redux-saga.js.org/"><img src="https://github.com/stever/stever/blob/main/images/3rd-party-logos/Redux-Saga.png" title="Redux-Saga" alt="Redux-Saga" width="80" height="80"/></a>
-<a href="https://www.antlr.org/"><img src="https://github.com/stever/stever/blob/main/images/3rd-party-logos/ANTLR.png" title="ANTLR" alt="ANTLR" width="80" height="80"/></a>
-<a href="https://cesium.com/platform/cesiumjs/"><img src="https://github.com/stever/stever/blob/main/images/3rd-party-logos/Cesium.png" title="CesiumJS" alt="CesiumJS" width="80" height="80"/></a>
 <a href="https://www.elastic.co/elasticsearch/"><img src="https://github.com/stever/stever/blob/main/images/3rd-party-logos/Elasticsearch.png" title="Elasticsearch" alt="Elasticsearch" width="80" height="80"/></a>
 <a href="https://lucene.apache.org/"><img src="https://github.com/stever/stever/blob/main/images/3rd-party-logos/Lucene.png" title="Lucene" alt="Lucene" width="80" height="80"/></a>
+<a href="https://cesium.com/platform/cesiumjs/"><img src="https://github.com/stever/stever/blob/main/images/3rd-party-logos/Cesium.png" title="CesiumJS" alt="CesiumJS" width="80" height="80"/></a>
+<a href="https://www.antlr.org/"><img src="https://github.com/stever/stever/blob/main/images/3rd-party-logos/ANTLR.png" title="ANTLR" alt="ANTLR" width="80" height="80"/></a>
 <a href="https://www.linode.com/"><img src="https://github.com/stever/stever/blob/main/images/3rd-party-logos/Linode.png" title="Linode" alt="Linode" width="80" height="80"/></a>
 <a href="https://gitea.io/"><img src="https://github.com/stever/stever/blob/main/images/3rd-party-logos/Gitea.png" title="Gitea" alt="Gitea" width="80" height="80"/></a>
 <a href="https://www.drone.io/"><img src="https://github.com/stever/stever/blob/main/images/3rd-party-logos/Drone.png" title="Drone" alt="Drone" width="80" height="80"/></a>
