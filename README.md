@@ -61,13 +61,13 @@ I'm a software developer in my late 40's, from Scotland.
 <a href="https://en.wikipedia.org/wiki/C%2B%2B"><img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="80" height="80"/></a>
 <a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)"><img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="80" height="80"/></a>
 <a href="https://www.nuget.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/nuget/nuget-original.svg" title="NuGet" alt="NuGet" width="80" height="80"/></a>
-<a href="https://cmake.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/cmake/cmake-original.svg" title="CMake" alt="CMake" width="80" height="80"/></a>
-<a href="https://gcc.gnu.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/gcc/gcc-original.svg" title="GCC" alt="GCC" width="80" height="80"/></a>
-<a href="https://www.latex-project.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" title="Latex" alt="Latex" width="80" height="80"/></a>
 <a href="https://www.docker.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="80" height="80"/></a>
 <a href="https://kubernetes.io/"><img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" title="Kubernetes" alt="Kubernetes" width="80" height="80"/></a>
 <a href="https://k3s.io/"><img src="https://github.com/devicons/devicon/blob/master/icons/k3s/k3s-original.svg" title="k3s" alt="k3s" width="80" height="80"/></a>
 <a href="https://portal.azure.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" title="Azure" alt="Azure" width="80" height="80"/></a>
+<a href="https://cmake.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/cmake/cmake-original.svg" title="CMake" alt="CMake" width="80" height="80"/></a>
+<a href="https://gcc.gnu.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/gcc/gcc-original.svg" title="GCC" alt="GCC" width="80" height="80"/></a>
+<a href="https://www.latex-project.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" title="Latex" alt="Latex" width="80" height="80"/></a>
 <a href="https://openjdk.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="80" height="80"/></a>
 <a href="https://scala-lang.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/scala/scala-original.svg" title="Scala" alt="Scala" width="80" height="80"/></a>
 <a href="https://www.jetbrains.com/idea/"><img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" title="IntelliJ" alt="IntelliJ" width="80" height="80"/></a>
