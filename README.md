@@ -107,6 +107,7 @@ I'm a software developer in my late 40's, from Scotland.
   <a href="https://github.com/stever?tab=repositories"><img align="middle" src="https://img.shields.io/badge/-Repositories-silver?style=flat&label=&labelColor=black&logo=GitHub&logoColor=silver" title="Repositories" alt="Repositories"/></a>
   &nbsp;<a href="https://gist.github.com/stever/"><img align="middle" src="https://img.shields.io/badge/-Gists-silver?style=flat&label=&labelColor=black&logo=GitHub&logoColor=silver" title="Gists" alt="Gists"/></a>
   &nbsp;<a href="https://github.com/stever?tab=stars"><img align="middle" src="https://img.shields.io/badge/-Stars-silver?style=flat&label=&labelColor=black&logo=GitHub&logoColor=silver" title="Stars" alt="Stars"/></a>
+  &nbsp;<a href="https://github.com/stever?tab=packages"><img align="middle" src="https://img.shields.io/badge/-Packages-silver?style=flat&label=&labelColor=black&logo=GitHub&logoColor=silver" title="Packages" alt="Packages"/></a>
 </p>
 
 The following sub-sections highlight maintained content you can find in my GitHub account here:
