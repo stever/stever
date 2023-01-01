@@ -20,7 +20,7 @@ I'm a software developer in my late 40's, from Scotland.
 ### 🔥 &nbsp;My Stats
 
 <p align="left">
-<a href="https://github-readme-stats.vercel.app"><img src="https://github-readme-stats.vercel.app/api?username=stever&count_private=true&show_icons=true&theme=vision-friendly-dark&hide_title=true"/></a><br/>
+<a href="https://github-readme-stats.vercel.app"><img src="https://github-readme-stats-stever.vercel.app/api?username=stever&count_private=true&show_icons=true&theme=vision-friendly-dark&hide_title=true"/></a><br/>
 </p>
 
 <p align="left">
@@ -28,7 +28,7 @@ I'm a software developer in my late 40's, from Scotland.
 </p>
 
 <p align="left">
-<a href="https://github-readme-stats.vercel.app"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stever&langs_count=10&layout=compact&theme=vision-friendly-dark"/></a>
+<a href="https://github-readme-stats.vercel.app"><img src="https://github-readme-stats-stever.vercel.app/api/top-langs/?username=stever&langs_count=10&layout=compact&theme=vision-friendly-dark"/></a>
 </p>
 
 ---
