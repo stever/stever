@@ -156,7 +156,7 @@ The following sub-sections highlight maintained content you can find in my GitHu
   - **[domaindriven-proxy](https://github.com/stever/domaindriven/pkgs/container/domaindriven-proxy)**
   - **[domaindriven-funcs](https://github.com/stever/domaindriven/pkgs/container/domaindriven-funcs)**
 - **[covid](https://github.com/stever/covid/pkgs/container/covid)**
-- **[z88dk](https://github.com/stever/z88dk-docker/pkgs/container/z88dk-docker)**
+- **[z88dk-docker](https://github.com/stever/z88dk-docker/pkgs/container/z88dk-docker)**
 
 #### Node.js Packages
 
