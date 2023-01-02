@@ -24,7 +24,7 @@ I'm a software developer in my late 40's, from Scotland.
 </p>
 
 <p align="left">
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=stever&theme=vision-friendly-dark&date_format=j%20M%5B%20Y%5D&mode=weekly"/></a><br/>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=stever&theme=vision-friendly-dark&date_format=j%20M%5B%20Y%5D&mode=weekly"/></a><br/>
 </p>
 
 <p align="left">
