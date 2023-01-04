@@ -15,7 +15,6 @@ I'm a software developer in my late 40's, from Scotland.
 </li>
 </ul>
 
-<!--
 ---
 
 ### 🔥 &nbsp;My Stats
@@ -29,9 +28,8 @@ I'm a software developer in my late 40's, from Scotland.
 </p>
 
 <p align="left">
-<a href="https://github-readme-stats.vercel.app"><img src="https://github-readme-stats-stever.vercel.app/api/top-langs/?username=stever&langs_count=10&layout=compact&theme=vision-friendly-dark&hide=css,html,scss,Vim%20Script,PLpgSQL,NSIS,ANTLR,Dockerfile,LESS,Jupyter%20Notebook,CMake,QML"/></a>
+<a href="https://github-readme-stats.vercel.app"><img src="https://github-readme-stats-stever.vercel.app/api/top-langs/?username=stever&langs_count=10&layout=compact&theme=vision-friendly-dark&hide=css,html,scss,Vim%20Script,PLpgSQL,NSIS,ANTLR,Dockerfile,LESS,Jupyter%20Notebook,CMake,QML&custom_title=Top%20Languages"/></a>
 </p>
--->
 
 ---
 
