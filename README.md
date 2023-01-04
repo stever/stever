@@ -31,7 +31,7 @@ I'm a software developer in my late 40's, from Scotland.
 <a href="https://github-readme-stats.vercel.app"><img src="https://github-readme-stats-stever.vercel.app/api/top-langs/?username=stever&langs_count=10&layout=compact&theme=vision-friendly-dark&hide=css,html,scss,Vim%20Script,PLpgSQL,NSIS,ANTLR,Dockerfile,LESS,Jupyter%20Notebook,CMake,QML&custom_title=Top%20Languages"/></a>
 </p>
 
-**NOTE:** _From github-readme-stats: "Top Languages does not indicate my skill level or anything like that; it's a GitHub metric to determine which languages have the most code on GitHub." I have forked some Pascal projects, which appear as a more significant percentage than I expected, so probably some share of the languages in the repositories in my personal account, and not including org account contributions._
+**NOTE:** _From github-readme-stats: "Top Languages does not indicate my skill level or anything like that; it's a GitHub metric to determine which languages have the most code on GitHub." I have forked some Pascal projects which appear as more significant than expected. Probably a share of languages in my personal repositories, not specific contributions or those from org accounts._
 
 ---
 
