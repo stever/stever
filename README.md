@@ -102,6 +102,7 @@ I'm a software developer in my late 40's, from Scotland.
 <a href="https://caddyserver.com/"><img src="https://github.com/stever/stever/blob/main/images/3rd-party-logos/Caddy.png" title="Caddy" alt="Caddy" width="80" height="80"/></a>
 <a href="https://nginx.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" title="NGiNX" alt="NGiNX" width="80" height="80"/></a>
 <a href="https://www.primefaces.org/primereact/"><img src="https://github.com/stever/stever/blob/main/images/3rd-party-logos/PrimeReact.png" title="PrimeReact" alt="PrimeReact" width="80" height="80"/></a>
+<a href="https://www.vim.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" title="Vim" alt="Vim" width="80" height="80"/></a>
 <a href="https://www.elastic.co/elasticsearch/"><img src="https://github.com/stever/stever/blob/main/images/3rd-party-logos/Elasticsearch.png" title="Elasticsearch" alt="Elasticsearch" width="80" height="80"/></a>
 <a href="https://lucene.apache.org/"><img src="https://github.com/stever/stever/blob/main/images/3rd-party-logos/Lucene.png" title="Lucene" alt="Lucene" width="80" height="80"/></a>
 <a href="https://cesium.com/platform/cesiumjs/"><img src="https://github.com/stever/stever/blob/main/images/3rd-party-logos/Cesium.png" title="CesiumJS" alt="CesiumJS" width="80" height="80"/></a>
@@ -116,7 +117,6 @@ I'm a software developer in my late 40's, from Scotland.
 <a href="https://www.qgis.org/"><img src="https://github.com/stever/stever/blob/main/images/3rd-party-logos/QGIS.png" title="QGIS" alt="QGIS" width="80" height="80"/></a>
 <a href="https://pptr.dev/"><img src="https://github.com/stever/stever/blob/main/images/3rd-party-logos/Puppeteer.png" title="Puppeteer" alt="Puppeteer" width="80" height="80"/></a>
 <a href="https://www.keycloak.org/"><img src="https://github.com/stever/stever/blob/main/images/3rd-party-logos/Keycloak.png" title="Keycloak" alt="Keycloak" width="80" height="80"/></a>
-<a href="https://www.vim.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" title="Vim" alt="Vim" width="80" height="80"/></a>
 <a href="https://www.gnu.org/software/bash/"><img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="80" height="80"/></a>
 </p>
 
