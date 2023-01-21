@@ -40,11 +40,11 @@ I'm a software developer in my late 40's, from Scotland.
 <p>
 <a href="https://en.wikipedia.org/wiki/JavaScript"><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="80" height="80"/></a>
 <a href="https://www.typescriptlang.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="80" height="80"/></a>
-<a href="https://www.typescriptlang.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="NodeJS" width="80" height="80"/></a>
+<a href="https://nodejs.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="NodeJS" width="80" height="80"/></a>
+<a href="https://webassembly.org/"><img src="https://github.com/stever/stever/blob/main/images/3rd-party-logos/WebAssembly.png" title="WebAssembly" alt="WebAssembly" width="80" height="80"/></a>
 <a href="https://reactjs.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="80" height="80"/></a>
 <a href="https://redux.js.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux" width="80" height="80"/></a>
 <a href="https://graphql.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain.svg" title="GraphQL" alt="GraphQL" width="80" height="80"/></a>
-<a href="https://nextjs.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="Next.js" alt="Next.js" width="80" height="80"/></a>
 <a href="https://getbootstrap.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="80" height="80"/></a>
 <a href="https://jquery.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original-wordmark.svg" title="jQuery" alt="jQuery" width="80" height="80"/></a>
 <a href="https://webpack.js.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" title="Webpack" alt="Webpack" width="80" height="80"/></a>
@@ -53,7 +53,7 @@ I'm a software developer in my late 40's, from Scotland.
 <a href="https://sass-lang.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="SASS" alt="SASS" width="80" height="80"/></a>
 <a href="https://babeljs.io/"><img src="https://github.com/devicons/devicon/blob/master/icons/babel/babel-original.svg" title="Babel" alt="Babel" width="80" height="80"/></a>
 <a href="https://www.npmjs.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="npm" alt="npm" width="80" height="80"/></a>
-<a href="https://webassembly.org/"><img src="https://github.com/stever/stever/blob/main/images/3rd-party-logos/WebAssembly.png" title="WebAssembly" alt="WebAssembly" width="80" height="80"/></a>
+<a href="https://nextjs.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="Next.js" alt="Next.js" width="80" height="80"/></a>
 <a href="https://git-scm.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="80" height="80"/></a>
 <a href="https://github.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="80" height="80"/></a>
 <a href="https://code.visualstudio.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="Visual Studio Code" alt="Visual Studio Code" width="80" height="80"/></a>
@@ -112,12 +112,12 @@ I'm a software developer in my late 40's, from Scotland.
 <a href="https://www.drone.io/"><img src="https://github.com/stever/stever/blob/main/images/3rd-party-logos/Drone.png" title="Drone" alt="Drone" width="80" height="80"/></a>
 <a href="https://www.dokuwiki.org/dokuwiki"><img src="https://github.com/stever/stever/blob/main/images/3rd-party-logos/DokuWiki.png" title="DokuWiki" alt="DokuWiki" width="80" height="80"/></a>
 <a href="https://plantuml.com/"><img src="https://github.com/stever/stever/blob/main/images/3rd-party-logos/PlantUML.png" title="PlantUML" alt="PlantUML" width="80" height="80"/></a>
-<a href="https://www.gnu.org/software/bash/"><img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="80" height="80"/></a>
 <a href="https://www.microsoft.com/microsoft-365/excel"><img src="https://github.com/stever/stever/blob/main/images/3rd-party-logos/Excel.png" title="Excel" alt="Excel" width="80" height="80"/></a>
 <a href="https://cefsharp.github.io/"><img src="https://github.com/stever/stever/blob/main/images/3rd-party-logos/CefSharp.png" title="CefSharp" alt="CefSharp" width="80" height="80"/></a>
 <a href="https://www.qgis.org/"><img src="https://github.com/stever/stever/blob/main/images/3rd-party-logos/QGIS.png" title="QGIS" alt="QGIS" width="80" height="80"/></a>
 <a href="https://pptr.dev/"><img src="https://github.com/stever/stever/blob/main/images/3rd-party-logos/Puppeteer.png" title="Puppeteer" alt="Puppeteer" width="80" height="80"/></a>
 <a href="https://www.keycloak.org/"><img src="https://github.com/stever/stever/blob/main/images/3rd-party-logos/Keycloak.png" title="Keycloak" alt="Keycloak" width="80" height="80"/></a>
+<a href="https://www.gnu.org/software/bash/"><img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="80" height="80"/></a>
 </p>
 
 ---
