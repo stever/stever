@@ -6,7 +6,7 @@ I'm a software developer in my late 40's, from Scotland.
 <li>🕹️ I grew up with computers, starting with a Sinclair ZX81, a ZX Spectrum, an Amiga 500, and an Amiga 2000.</li>
 <li>🔭 I’m working as a Software Delivery Manager and contributing to frontend, backend, db & devops - building web apps.</li>
 <li>🌱 I'm looking to grow as a tech lead, to share knowledge, productive tools & best practices.</li>
-<li>⚡ In my free time I tend to develop my own software projects. Coding and listening to music is a favourite way to pass the time.</li>
+<li>⚡ In my free time I tend to develop my own projects. Coding and listening to music is a favourite way to pass the time.</li>
 <li>
   📫 How to reach me:<br/>
   <a href="mailto:stever@hey.com"><img align="middle" src="https://img.shields.io/badge/-stever%40hey.com-5522fa?style=flat&label=&labelColor=white&logo=Hey&logoColor=5522fa" title="" alt="Email"/></a>
@@ -20,16 +20,18 @@ I'm a software developer in my late 40's, from Scotland.
 ### 🔥 &nbsp;My Stats
 
 <p align="left">
-<a href="https://git.io/streak-stats"><img src="https://github-readme-stats.vercel.app/api?username=stever&count_private=true&show_icons=true&theme=vision-friendly-dark&hide_title=true"/></a><br/>
+<a href="https://github.com/stever/github-readme-stats"><img src="https://badge.stever.dev/readme-stats" width="495" height="165"/></a><br/>
 </p>
 
 <p align="left">
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=stever&theme=vision-friendly-dark&date_format=j%20M%5B%20Y%5D&mode=weekly"/></a><br/>
+<a href="https://github.com/stever/github-readme-streak-stats"><img src="https://badge.stever.dev/streak-stats" width="495" height="195"/></a><br/>
 </p>
 
 <p align="left">
-<a href="https://git.io/streak-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stever&langs_count=10&layout=compact&theme=vision-friendly-dark"/></a>
+<a href="https://github.com/stever/github-readme-stats"><img src="https://badge.stever.dev/top-langs" width="350" height="215"/></a>
 </p>
+
+**NOTE:** _From github-readme-stats: "Top Languages does not indicate my skill level or anything like that; it's a GitHub metric to determine which languages have the most code on GitHub." I had forked some Pascal projects which appeared as more significant than expected. Probably a share of languages in my personal repositories, not specific contributions or those from org accounts._
 
 ---
 
@@ -122,11 +124,18 @@ I'm a software developer in my late 40's, from Scotland.
 
 ### 💾 &nbsp;Resources
 
+<p>
+  <a href="https://github.com/stever?tab=repositories"><img align="middle" src="https://img.shields.io/badge/-Repositories-silver?style=flat&label=&labelColor=black&logo=GitHub&logoColor=silver" title="Repositories" alt="Repositories"/></a>
+  &nbsp;<a href="https://gist.github.com/stever/"><img align="middle" src="https://img.shields.io/badge/-Gists-silver?style=flat&label=&labelColor=black&logo=GitHub&logoColor=silver" title="Gists" alt="Gists"/></a>
+  &nbsp;<a href="https://github.com/stever?tab=stars"><img align="middle" src="https://img.shields.io/badge/-Stars-silver?style=flat&label=&labelColor=black&logo=GitHub&logoColor=silver" title="Stars" alt="Stars"/></a>
+  &nbsp;<a href="https://github.com/stever?tab=packages"><img align="middle" src="https://img.shields.io/badge/-Packages-silver?style=flat&label=&labelColor=black&logo=GitHub&logoColor=silver" title="Packages" alt="Packages"/></a>
+</p>
+
 The following sub-sections highlight maintained content you can find in my GitHub account here:
 
 #### Web Apps
 
-- **[ZX Play](https://github.com/stever/zxplay)**
+- **[ZX Coder](https://github.com/stever/zxcoder)**
 - **[Domain-Driven](https://github.com/stever/domaindriven)**
 - **[2019-nCoV](https://github.com/stever/covid)**
 - **[Playnode](https://github.com/stever/playnode)**
@@ -149,6 +158,7 @@ The following sub-sections highlight maintained content you can find in my GitHu
   - **[domaindriven-proxy](https://github.com/stever/domaindriven/pkgs/container/domaindriven-proxy)**
   - **[domaindriven-funcs](https://github.com/stever/domaindriven/pkgs/container/domaindriven-funcs)**
 - **[covid](https://github.com/stever/covid/pkgs/container/covid)**
+- **[z88dk-docker](https://github.com/stever/z88dk-docker/pkgs/container/z88dk-docker)**
 
 #### Node.js Packages
 
