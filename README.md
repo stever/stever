@@ -51,7 +51,7 @@ I'm a software developer in my late 40's, from Scotland.
 <a href="https://sass-lang.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="SASS" alt="SASS" width="80" height="80"/></a>
 <a href="https://babeljs.io/"><img src="https://github.com/devicons/devicon/blob/master/icons/babel/babel-original.svg" title="Babel" alt="Babel" width="80" height="80"/></a>
 <a href="https://www.npmjs.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="npm" alt="npm" width="80" height="80"/></a>
-<a href="https://www.gnu.org/software/bash/"><img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="80" height="80"/></a>
+<a href="https://webassembly.org/"><img src="https://github.com/stever/stever/blob/main/images/3rd-party-logos/WebAssembly.png" title="WebAssembly" alt="WebAssembly" width="80" height="80"/></a>
 <a href="https://git-scm.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="80" height="80"/></a>
 <a href="https://github.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="80" height="80"/></a>
 <a href="https://code.visualstudio.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="Visual Studio Code" alt="Visual Studio Code" width="80" height="80"/></a>
@@ -110,7 +110,7 @@ I'm a software developer in my late 40's, from Scotland.
 <a href="https://www.drone.io/"><img src="https://github.com/stever/stever/blob/main/images/3rd-party-logos/Drone.png" title="Drone" alt="Drone" width="80" height="80"/></a>
 <a href="https://www.dokuwiki.org/dokuwiki"><img src="https://github.com/stever/stever/blob/main/images/3rd-party-logos/DokuWiki.png" title="DokuWiki" alt="DokuWiki" width="80" height="80"/></a>
 <a href="https://plantuml.com/"><img src="https://github.com/stever/stever/blob/main/images/3rd-party-logos/PlantUML.png" title="PlantUML" alt="PlantUML" width="80" height="80"/></a>
-<a href="https://scaledagile.com/"><img src="https://github.com/stever/stever/blob/main/images/3rd-party-logos/Scaled Agile.png" title="Scaled Agile" alt="Scaled Agile" width="80" height="80"/></a>
+<a href="https://www.gnu.org/software/bash/"><img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="80" height="80"/></a>
 <a href="https://www.microsoft.com/microsoft-365/excel"><img src="https://github.com/stever/stever/blob/main/images/3rd-party-logos/Excel.png" title="Excel" alt="Excel" width="80" height="80"/></a>
 <a href="https://cefsharp.github.io/"><img src="https://github.com/stever/stever/blob/main/images/3rd-party-logos/CefSharp.png" title="CefSharp" alt="CefSharp" width="80" height="80"/></a>
 <a href="https://www.qgis.org/"><img src="https://github.com/stever/stever/blob/main/images/3rd-party-logos/QGIS.png" title="QGIS" alt="QGIS" width="80" height="80"/></a>
