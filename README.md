@@ -9,9 +9,9 @@ I'm a software developer in my late 40's, from Scotland.
 <li>⚡ In my free time I tend to develop my own projects. Coding and listening to music is a favourite way to pass the time.</li>
 <li>
   📫 How to reach me:<br/>
-  <a href="mailto:stever@hey.com"><img align="middle" src="https://img.shields.io/badge/-stever%40hey.com-5522fa?style=flat&label=&labelColor=white&logo=Hey&logoColor=5522fa" title="" alt="Email"/></a>
-  &nbsp;<a href="https://www.linkedin.com/in/csteve"><img align="middle" src="https://img.shields.io/badge/-csteve-2266c2?style=flat&logo=Linkedin&logoColor=white" title="LinkedIn" alt="LinkedIn"/></a>
-  &nbsp;<a href="https://hachyderm.io/@stever"><img align="middle" src="https://img.shields.io/badge/-%40stever%40hachyderm.io-5538c7?style=flat&label=&labelColor=white&logo=Mastodon&logoColor=5538c7" title="Mastodon" alt="Mastodon"/></a>
+  <a href="mailto:stever@hey.com"><img align="middle" src="https://badge.stever.dev/email" title="" alt="Email"/></a>
+  &nbsp;<a href="https://www.linkedin.com/in/csteve"><img align="middle" src="https://badge.stever.dev/linkedin" title="LinkedIn" alt="LinkedIn"/></a>
+  &nbsp;<a href="https://hachyderm.io/@stever"><img align="middle" src="https://badge.stever.dev/mastodon" title="Mastodon" alt="Mastodon"/></a>
 </li>
 </ul>
 
@@ -125,10 +125,10 @@ I'm a software developer in my late 40's, from Scotland.
 ### 💾 &nbsp;Resources
 
 <p>
-  <a href="https://github.com/stever?tab=repositories"><img align="middle" src="https://img.shields.io/badge/-Repositories-silver?style=flat&label=&labelColor=black&logo=GitHub&logoColor=silver" title="Repositories" alt="Repositories"/></a>
-  &nbsp;<a href="https://gist.github.com/stever/"><img align="middle" src="https://img.shields.io/badge/-Gists-silver?style=flat&label=&labelColor=black&logo=GitHub&logoColor=silver" title="Gists" alt="Gists"/></a>
-  &nbsp;<a href="https://github.com/stever?tab=stars"><img align="middle" src="https://img.shields.io/badge/-Stars-silver?style=flat&label=&labelColor=black&logo=GitHub&logoColor=silver" title="Stars" alt="Stars"/></a>
-  &nbsp;<a href="https://github.com/stever?tab=packages"><img align="middle" src="https://img.shields.io/badge/-Packages-silver?style=flat&label=&labelColor=black&logo=GitHub&logoColor=silver" title="Packages" alt="Packages"/></a>
+  <a href="https://github.com/stever?tab=repositories"><img align="middle" src="https://badge.stever.dev/gh-repositories" title="Repositories" alt="Repositories"/></a>
+  &nbsp;<a href="https://gist.github.com/stever/"><img align="middle" src="https://badge.stever.dev/gh-gists" title="Gists" alt="Gists"/></a>
+  &nbsp;<a href="https://github.com/stever?tab=stars"><img align="middle" src="https://badge.stever.dev/gh-stars" title="Stars" alt="Stars"/></a>
+  &nbsp;<a href="https://github.com/stever?tab=packages"><img align="middle" src="https://badge.stever.dev/gh-packages" title="Packages" alt="Packages"/></a>
 </p>
 
 The following sub-sections highlight maintained content you can find in my GitHub account here:
