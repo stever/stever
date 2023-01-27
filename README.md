@@ -9,9 +9,9 @@ I'm a software developer in my late 40's, from Scotland.
 <li>⚡ In my free time I tend to develop my own projects. Coding and listening to music is a favourite way to pass the time.</li>
 <li>
   📫 How to reach me:<br/>
-  <a href="mailto:stever@hey.com"><img align="middle" src="https://badge.stever.dev/email?1" title="" alt="Email"/></a>
-  &nbsp;<a href="https://www.linkedin.com/in/csteve"><img align="middle" src="https://badge.stever.dev/linkedin?1" title="LinkedIn" alt="LinkedIn"/></a>
-  &nbsp;<a href="https://hachyderm.io/@stever"><img align="middle" src="https://badge.stever.dev/mastodon?1" title="Mastodon" alt="Mastodon"/></a>
+  <a href="mailto:stever@hey.com"><img align="middle" src="https://badge.stever.dev/email" title="" alt="Email"/></a>
+  &nbsp;<a href="https://www.linkedin.com/in/csteve"><img align="middle" src="https://badge.stever.dev/linkedin" title="LinkedIn" alt="LinkedIn"/></a>
+  &nbsp;<a href="https://hachyderm.io/@stever"><img align="middle" src="https://badge.stever.dev/mastodon" title="Mastodon" alt="Mastodon"/></a>
 </li>
 </ul>
 
@@ -20,15 +20,15 @@ I'm a software developer in my late 40's, from Scotland.
 ### 🔥 &nbsp;My Stats
 
 <p align="left">
-<a href="https://github.com/stever/github-readme-stats"><img src="https://badge.stever.dev/readme-stats" width="495" height="165"/></a><br/>
+<a href="https://github.com/stever/github-readme-stats"><img src="https://badge.stever.dev/readme-stats?1" width="495" height="165"/></a><br/>
 </p>
 
 <p align="left">
-<a href="https://github.com/stever/github-readme-streak-stats"><img src="https://badge.stever.dev/streak-stats" width="495" height="195"/></a><br/>
+<a href="https://github.com/stever/github-readme-streak-stats"><img src="https://badge.stever.dev/streak-stats?1" width="495" height="195"/></a><br/>
 </p>
 
 <p align="left">
-<a href="https://github.com/stever/github-readme-stats"><img src="https://badge.stever.dev/top-langs" width="350" height="215"/></a>
+<a href="https://github.com/stever/github-readme-stats"><img src="https://badge.stever.dev/top-langs?1" width="350" height="215"/></a>
 </p>
 
 **NOTE:** _From github-readme-stats: "Top Languages does not indicate my skill level or anything like that; it's a GitHub metric to determine which languages have the most code on GitHub." I had forked some Pascal projects which appeared as more significant than expected. Probably a share of languages in my personal repositories, not specific contributions or those from org accounts._
