@@ -9,9 +9,9 @@ I'm a software developer in my late 40's, from Scotland.
 <li>⚡ In my free time I tend to develop my own projects. Coding and listening to music is a favourite way to pass the time.</li>
 <li>
   📫 How to reach me:<br/>
-  <a href="mailto:stever@hey.com"><img align="middle" src="https://badge.stever.dev/email" title="" alt="Email"/></a>
-  &nbsp;<a href="https://www.linkedin.com/in/csteve"><img align="middle" src="https://badge.stever.dev/linkedin" title="LinkedIn" alt="LinkedIn"/></a>
-  &nbsp;<a href="https://hachyderm.io/@stever"><img align="middle" src="https://badge.stever.dev/mastodon" title="Mastodon" alt="Mastodon"/></a>
+  <a href="mailto:stever@hey.com"><img align="middle" src="https://badge.stever.dev/email?1" title="" alt="Email"/></a>
+  &nbsp;<a href="https://www.linkedin.com/in/csteve"><img align="middle" src="https://badge.stever.dev/linkedin?1" title="LinkedIn" alt="LinkedIn"/></a>
+  &nbsp;<a href="https://hachyderm.io/@stever"><img align="middle" src="https://badge.stever.dev/mastodon?1" title="Mastodon" alt="Mastodon"/></a>
 </li>
 </ul>
 
