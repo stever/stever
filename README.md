@@ -4,7 +4,7 @@ I'm a software developer in my late 40's, from Scotland.
 
 <ul>
 <li>🕹️ I grew up with computers, starting with a Sinclair ZX81, a ZX Spectrum, an Amiga 500, and an Amiga 2000.</li>
-<li>🔭 I’m working as a Software Delivery Manager and contributing to frontend, backend, db & devops - building web apps.</li>
+<li>🔭 I’m working as a Principal Software Developer and contributing to frontend, backend, db & devops - building web apps.</li>
 <li>🌱 I'm looking to grow as a tech lead, to share knowledge, productive tools & best practices.</li>
 <li>⚡ In my free time I tend to develop my own projects. Coding and listening to music is a favourite way to pass the time.</li>
 <li>
