@@ -20,15 +20,15 @@ I'm a software developer in my late 40's, from Scotland.
 ### 🔥 &nbsp;My Stats
 
 <p align="left">
-<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://badge.stever.dev/readme-stats"/></a><br/>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://badge.stever.dev/readme-stats?1"/></a><br/>
 </p>
 
 <p align="left">
-<a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img src="https://badge.stever.dev/streak-stats"/></a><br/>
+<a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img src="https://badge.stever.dev/streak-stats?1"/></a><br/>
 </p>
 
 <p align="left">
-<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://badge.stever.dev/top-langs"/></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://badge.stever.dev/top-langs?1"/></a>
 </p>
 
 **NOTE:** _From github-readme-stats: "Top Languages does not indicate my skill level or anything like that; it's a GitHub metric to determine which languages have the most code on GitHub." I had forked some Pascal projects which appeared as more significant than expected. Probably a share of languages in my personal repositories, not specific contributions or those from org accounts._
