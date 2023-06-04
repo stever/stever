@@ -122,53 +122,9 @@ I'm a software developer in my late 40's, from Scotland.
 
 ---
 
-### 💾 &nbsp;Resources
-
 <p>
   <a href="https://github.com/stever?tab=repositories"><img align="middle" src="https://badge.stever.dev/gh-repositories" title="Repositories" alt="Repositories"/></a>
   &nbsp;<a href="https://gist.github.com/stever/"><img align="middle" src="https://badge.stever.dev/gh-gists" title="Gists" alt="Gists"/></a>
   &nbsp;<a href="https://github.com/stever?tab=stars"><img align="middle" src="https://badge.stever.dev/gh-stars" title="Stars" alt="Stars"/></a>
   &nbsp;<a href="https://github.com/stever?tab=packages"><img align="middle" src="https://badge.stever.dev/gh-packages" title="Packages" alt="Packages"/></a>
 </p>
-
-The following sub-sections highlight maintained content you can find in my GitHub account here:
-
-#### Web Apps
-
-- **[ZX Coder](https://github.com/stever/zxcoder)**
-- **[Domain-Driven](https://github.com/stever/domaindriven)**
-- **[2019-nCoV](https://github.com/stever/covid)**
-- **[Playnode](https://github.com/stever/playnode)**
-
-#### Template Repositories
-
-- [Template for a React component UI library using Storybook.](https://github.com/stever/react-ui-npm-template)
-- [Template for porting a command-line C program to a JavaScript library using Emscripten.](https://github.com/stever/emscripten-fs-template)
-
-#### Docker Container Images
-
-- **[caddy-auth](https://github.com/stever/caddy-auth/pkgs/container/caddy-auth)**
-- **[zxplay](https://github.com/stever/zxplay/pkgs/container/zxplay)**
-  - **[zxplay-auth](https://github.com/stever/zxplay-auth/pkgs/container/zxplay-auth)**
-  - **[zxplay-proxy](https://github.com/stever/zxplay-proxy/pkgs/container/zxplay-proxy)**
-  - **[zxplay-api-z88dk](https://github.com/stever/zxplay-api-z88dk/pkgs/container/zxplay-api-z88dk)**
-  - **[zxplay-api-zxbasic](https://github.com/stever/zxplay-api-zxbasic/pkgs/container/zxplay-api-zxbasic)**
-- **[domaindriven](https://github.com/stever/domaindriven/pkgs/container/domaindriven)**
-  - **[domaindriven-auth](https://github.com/stever/domaindriven/pkgs/container/domaindriven-auth)**
-  - **[domaindriven-proxy](https://github.com/stever/domaindriven/pkgs/container/domaindriven-proxy)**
-  - **[domaindriven-funcs](https://github.com/stever/domaindriven/pkgs/container/domaindriven-funcs)**
-- **[covid](https://github.com/stever/covid/pkgs/container/covid)**
-- **[z88dk-docker](https://github.com/stever/z88dk-docker/pkgs/container/z88dk-docker)**
-
-#### Node.js Packages
-
-Emscripten conversion of command-line programs for the ZX Spectrum:
-
-- **[bas2tap](https://www.npmjs.com/package/bas2tap)**
-- **[pasmo](https://www.npmjs.com/package/pasmo)**
-- **[zmakebas](https://www.npmjs.com/package/zmakebas)**
-
-#### Dev Container Features
-
-- **[caddy-plus](https://github.com/stever/devcontainer-features/pkgs/container/devcontainer-features%2Fcaddy-plus)** Caddy plus additional extensions (caddy-security)
-- **[hasura-cli](https://github.com/stever/devcontainer-features/pkgs/container/devcontainer-features%2Fhasura-cli)** The Hasura CLI is a command-line tool you can use to manage your Hasura instances.
