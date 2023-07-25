@@ -15,6 +15,7 @@ I'm a software developer in my late 40's, from Scotland.
 </li>
 </ul>
 
+<!--
 ---
 
 ### 🔥 &nbsp;My Stats
@@ -32,6 +33,7 @@ I'm a software developer in my late 40's, from Scotland.
 </p>
 
 **NOTE:** _From github-readme-stats: "Top Languages does not indicate my skill level or anything like that; it's a GitHub metric to determine which languages have the most code on GitHub." I had forked some Pascal projects which appeared as more significant than expected. Probably a share of languages in my personal repositories, not specific contributions or those from org accounts._
+-->
 
 ---
 
