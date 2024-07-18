@@ -6,7 +6,7 @@
   </picture>
 </p>
 
-### 📓 Gists I wrote
+### 📓 Recent Gists
 
 
 - [Show the number of committers in a repository in the last 90 days](https://gist.github.com/4b9e58ab4c65a1b79260e5830a9d20c9) (1 day ago)
