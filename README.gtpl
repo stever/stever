@@ -6,7 +6,7 @@
   </picture>
 </p>
 
-### 📓 Gists I wrote
+### 📓 Recent Gists
 
 {{ range gists 10 }}
 - [{{ .Description }}]({{ .URL }}) ({{ humanize .CreatedAt }})
