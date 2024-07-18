@@ -6,11 +6,11 @@
   </picture>
 </p>
 
-#### 📓 Gists I wrote
+### 📓 Gists I wrote
 
-{{range gists 5}}
-- [{{.Description}}]({{.URL}}) ({{humanize .CreatedAt}})
-{{- end}}
+{{ range gists 10 }}
+- [{{ .Description }}]({{ .URL }}) ({{ humanize .CreatedAt }})
+{{- end }}
 
 ### 🌱 Recent Repositories
 
@@ -20,6 +20,6 @@
 
 ### ⭐ Recent Stars
 
-{{ range recentStars 5 }}
+{{ range recentStars 10 }}
 - [{{ .Repo.Name }}]({{ .Repo.URL }}) - {{ .Repo.Description }}
 {{- end }}
