@@ -6,10 +6,6 @@
   </picture>
 </p>
 
-### 👷 My recent contributions
-
-
-
 ### 🌱 My latest projects
 
 
@@ -18,10 +14,6 @@
 - [stever/wasm-tinygo-example](https://github.com/stever/wasm-tinygo-example) - WebAssembly example using TinyGo.
 - [stever/pi-to-infinity](https://github.com/stever/pi-to-infinity) - A simple game engine on the Raspberry Pi using OpenGL ES and C.
 - [stever/hello-rmi](https://github.com/stever/hello-rmi) - Simple project to test Java RMI.
-
-### 🔨 My recent Pull Requests
-
-
 
 ### ⭐ Recent Stars
 
