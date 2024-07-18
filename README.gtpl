@@ -6,9 +6,15 @@
   </picture>
 </p>
 
-### 🌱 My latest projects
+#### 📓 Gists I wrote
 
-{{ range recentRepos 5 }}
+{{range gists 5}}
+- [{{.Description}}]({{.URL}}) ({{humanize .CreatedAt}})
+{{- end}}
+
+### 🌱 Recent Repositories
+
+{{ range recentRepos 10 }}
 - [{{ .Name }}]({{ .URL }}) - {{ .Description }}
 {{- end }}
 
