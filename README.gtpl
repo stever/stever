@@ -20,6 +20,6 @@
 
 ### ⭐ Recent Stars
 
-{{ range recentStars 10 }}
+{{ range recentStars 5 }}
 - [{{ .Repo.Name }}]({{ .Repo.URL }}) - {{ .Repo.Description }}
 {{- end }}
