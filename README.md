@@ -39,8 +39,3 @@
 - [ChrisTitusTech/powershell-profile](https://github.com/ChrisTitusTech/powershell-profile) - Pretty PowerShell that looks good and functions almost as good as Linux terminal 
 - [PowerShell/PSReadLine](https://github.com/PowerShell/PSReadLine) - A bash inspired readline implementation for PowerShell
 - [rick3rt/psmarks](https://github.com/rick3rt/psmarks) - Directory bookmarks for Powershell
-- [stadub/PowershellScripts](https://github.com/stadub/PowershellScripts) - Monorepo with all my Powershell Scripts 
-- [muesli/readme-scribe](https://github.com/muesli/readme-scribe) - A GitHub Action that automatically generates &amp; updates markdown content (like your README.md)
-- [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30&#43; plugins and 300&#43; options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
-- [gitricko/sonarless](https://github.com/gitricko/sonarless) - SonarQube Scan CLI &#43; GitHub Action without a need of a dedicated hosted SonarQube Server
-- [SonarSource/sonarqube-scan-action](https://github.com/SonarSource/sonarqube-scan-action) - 
