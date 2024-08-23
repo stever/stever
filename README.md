@@ -9,7 +9,7 @@
 ### 📓 Recent Gists
 
 
-- [National Library of Scotland Map Stitching](https://gist.github.com/1f1677083cb66600c507ce99941a739c) (3 weeks ago)
+- [National Library of Scotland Map Stitching](https://gist.github.com/1f1677083cb66600c507ce99941a739c) (4 weeks ago)
 - [Show the number of committers in a repository in the last 90 days](https://gist.github.com/4b9e58ab4c65a1b79260e5830a9d20c9) (1 month ago)
 - [Bash alias to list docker processes sorted by name](https://gist.github.com/5861c61e287c62768216240f38e3dd60) (2 years ago)
 - [Raspberry Pi Benchmark Suite - Phoronix](https://gist.github.com/970745eaf2e001647d47dfc30786bc66) (3 years ago)
@@ -34,8 +34,8 @@
 ### ⭐ Recent Stars
 
 
+- [DReichLab/EIG](https://github.com/DReichLab/EIG) - Eigen tools by Nick Patterson and Alkes Price lab
 - [23andMe/seqseek](https://github.com/23andMe/seqseek) - Easy access to human reference genome sequences
 - [plashchynski/awesome-genetics](https://github.com/plashchynski/awesome-genetics) - A curated list of awesome personal genomics software, libraries, and educational resources.
 - [osmandapp/OsmAnd](https://github.com/osmandapp/OsmAnd) - OsmAnd
 - [osmandapp/web](https://github.com/osmandapp/web) - OsmAnd Web project
-- [asobti/kube-monkey](https://github.com/asobti/kube-monkey) - An implementation of Netflix&#39;s Chaos Monkey for Kubernetes clusters
