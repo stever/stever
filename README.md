@@ -34,8 +34,8 @@
 ### ⭐ Recent Stars
 
 
+- [nhost/hasura-auth](https://github.com/nhost/hasura-auth) - Authentication for Hasura.
+- [nhost/nextjs-stripe-starter](https://github.com/nhost/nextjs-stripe-starter) - 
+- [nhost/nhost](https://github.com/nhost/nhost) - The Open Source Firebase Alternative with GraphQL.
 - [DReichLab/EIG](https://github.com/DReichLab/EIG) - Eigen tools by Nick Patterson and Alkes Price lab
 - [23andMe/seqseek](https://github.com/23andMe/seqseek) - Easy access to human reference genome sequences
-- [plashchynski/awesome-genetics](https://github.com/plashchynski/awesome-genetics) - A curated list of awesome personal genomics software, libraries, and educational resources.
-- [osmandapp/OsmAnd](https://github.com/osmandapp/OsmAnd) - OsmAnd
-- [osmandapp/web](https://github.com/osmandapp/web) - OsmAnd Web project
