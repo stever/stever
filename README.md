@@ -34,8 +34,8 @@
 ### ⭐ Recent Stars
 
 
+- [openSNP/snpr](https://github.com/openSNP/snpr) - The sources of the openSNP website
+- [olorin15/genetic-genealogy](https://github.com/olorin15/genetic-genealogy) - Data Science techniques applied to human DNA data
 - [nhost/hasura-auth](https://github.com/nhost/hasura-auth) - Authentication for Hasura.
 - [nhost/nextjs-stripe-starter](https://github.com/nhost/nextjs-stripe-starter) - 
 - [nhost/nhost](https://github.com/nhost/nhost) - The Open Source Firebase Alternative with GraphQL.
-- [DReichLab/EIG](https://github.com/DReichLab/EIG) - Eigen tools by Nick Patterson and Alkes Price lab
-- [23andMe/seqseek](https://github.com/23andMe/seqseek) - Easy access to human reference genome sequences
