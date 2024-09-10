@@ -34,8 +34,8 @@
 ### ⭐ Recent Stars
 
 
+- [alligatorio/bundlesize-webpack-plugin](https://github.com/alligatorio/bundlesize-webpack-plugin) - [WIP] Micro Plugins | webpack plugin to help you with your bundle size
+- [google/strict-csp](https://github.com/google/strict-csp) - 
 - [slackhq/csp-html-webpack-plugin](https://github.com/slackhq/csp-html-webpack-plugin) - A plugin which, when combined with HTMLWebpackPlugin, adds CSP tags to the HTML output.
 - [cloudflare/origin-ca-issuer](https://github.com/cloudflare/origin-ca-issuer) - cert-manager issuer for Origin CA
 - [adrianodemarino/Imputation_beagle_tutorial](https://github.com/adrianodemarino/Imputation_beagle_tutorial) - Imputation-beagle-tutorial
-- [openSNP/snpr](https://github.com/openSNP/snpr) - The sources of the openSNP website
-- [olorin15/genetic-genealogy](https://github.com/olorin15/genetic-genealogy) - Data Science techniques applied to human DNA data
