@@ -34,8 +34,8 @@
 ### ⭐ Recent Stars
 
 
+- [nhsconnect/gpconnect-demonstrator](https://github.com/nhsconnect/gpconnect-demonstrator) - GP Connect demonstrator is a reference implementation of a GP Connect providing system and a consumer system demonstration
+- [nhsconnect/gpconnect-fhir](https://github.com/nhsconnect/gpconnect-fhir) - GP Connect FHIR assets
+- [nhsconnect/gpconnect-provider-testing](https://github.com/nhsconnect/gpconnect-provider-testing) - GP Connect automated test suite for API providers
+- [nhsconnect/gpc-consumer-support](https://github.com/nhsconnect/gpc-consumer-support) - 
 - [alligatorio/bundlesize-webpack-plugin](https://github.com/alligatorio/bundlesize-webpack-plugin) - [WIP] Micro Plugins | webpack plugin to help you with your bundle size
-- [google/strict-csp](https://github.com/google/strict-csp) - 
-- [slackhq/csp-html-webpack-plugin](https://github.com/slackhq/csp-html-webpack-plugin) - A plugin which, when combined with HTMLWebpackPlugin, adds CSP tags to the HTML output.
-- [cloudflare/origin-ca-issuer](https://github.com/cloudflare/origin-ca-issuer) - cert-manager issuer for Origin CA
-- [adrianodemarino/Imputation_beagle_tutorial](https://github.com/adrianodemarino/Imputation_beagle_tutorial) - Imputation-beagle-tutorial
