@@ -34,8 +34,8 @@
 ### ⭐ Recent Stars
 
 
-- [meta-llama/llama3](https://github.com/meta-llama/llama3) - The official Meta Llama 3 GitHub site
-- [FirelyTeam/firely-net-sdk](https://github.com/FirelyTeam/firely-net-sdk) - The official Firely .NET SDK for HL7 FHIR
-- [apriha/snps](https://github.com/apriha/snps) - tools for reading, writing, merging, and remapping SNPs
-- [arvkevi/ezancestry](https://github.com/arvkevi/ezancestry) - Easy genetic ancestry predictions in Python
-- [apriha/lineage_app](https://github.com/apriha/lineage_app) - a Django web app interface for lineage
+- [Nutlope/llamacoder](https://github.com/Nutlope/llamacoder) - Open source Claude Artifacts – built with Llama 3.1 405B
+- [Nutlope/llamatutor](https://github.com/Nutlope/llamatutor) - An AI personal tutor built with Llama 3.1
+- [Nutlope/turboseek](https://github.com/Nutlope/turboseek) - An AI search engine inspired by Perplexity
+- [wit-ai/wit](https://github.com/wit-ai/wit) - Natural Language Interface for apps and devices
+- [meta-llama/llama-models](https://github.com/meta-llama/llama-models) - Utilities intended for use with Llama models.
