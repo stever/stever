@@ -34,8 +34,8 @@
 ### ⭐ Recent Stars
 
 
+- [sawsew467/fuse-frontend](https://github.com/sawsew467/fuse-frontend) - 
 - [Nutlope/llamacoder](https://github.com/Nutlope/llamacoder) - Open source Claude Artifacts – built with Llama 3.1 405B
 - [Nutlope/llamatutor](https://github.com/Nutlope/llamatutor) - An AI personal tutor built with Llama 3.1
 - [Nutlope/turboseek](https://github.com/Nutlope/turboseek) - An AI search engine inspired by Perplexity
 - [wit-ai/wit](https://github.com/wit-ai/wit) - Natural Language Interface for apps and devices
-- [meta-llama/llama-models](https://github.com/meta-llama/llama-models) - Utilities intended for use with Llama models.
