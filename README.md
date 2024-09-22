@@ -34,8 +34,8 @@
 ### ⭐ Recent Stars
 
 
-- [sawsew467/fuse-frontend](https://github.com/sawsew467/fuse-frontend) - 
-- [Nutlope/llamacoder](https://github.com/Nutlope/llamacoder) - Open source Claude Artifacts – built with Llama 3.1 405B
-- [Nutlope/llamatutor](https://github.com/Nutlope/llamatutor) - An AI personal tutor built with Llama 3.1
-- [Nutlope/turboseek](https://github.com/Nutlope/turboseek) - An AI search engine inspired by Perplexity
-- [wit-ai/wit](https://github.com/wit-ai/wit) - Natural Language Interface for apps and devices
+- [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) - Implementing a ChatGPT-like LLM in PyTorch from scratch, step by step
+- [nschloe/tiptop](https://github.com/nschloe/tiptop) - :desktop_computer: Command-line system monitoring
+- [Textualize/frogmouth](https://github.com/Textualize/frogmouth) - A Markdown browser for your terminal
+- [Textualize/trogon](https://github.com/Textualize/trogon) - Easily turn your Click CLI into a powerful terminal application
+- [Textualize/textual-web](https://github.com/Textualize/textual-web) - Run TUIs and terminals in your browser
