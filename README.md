@@ -34,8 +34,8 @@
 ### ⭐ Recent Stars
 
 
+- [lineagekit/lineagekit](https://github.com/lineagekit/lineagekit) - A python library with genealogy methods
 - [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) - Implementing a ChatGPT-like LLM in PyTorch from scratch, step by step
 - [nschloe/tiptop](https://github.com/nschloe/tiptop) - :desktop_computer: Command-line system monitoring
 - [Textualize/frogmouth](https://github.com/Textualize/frogmouth) - A Markdown browser for your terminal
 - [Textualize/trogon](https://github.com/Textualize/trogon) - Easily turn your Click CLI into a powerful terminal application
-- [Textualize/textual-web](https://github.com/Textualize/textual-web) - Run TUIs and terminals in your browser
