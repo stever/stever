@@ -34,8 +34,8 @@
 ### ⭐ Recent Stars
 
 
+- [symfony/panther](https://github.com/symfony/panther) - A browser testing and web crawling library for PHP and Symfony
 - [Azure-Samples/active-directory-b2c-custom-policy-starterpack](https://github.com/Azure-Samples/active-directory-b2c-custom-policy-starterpack) - Azure AD B2C now allows uploading of a Custom Policy which allows full control and customization of the Identity Experience Framework
 - [lineagekit/lineagekit](https://github.com/lineagekit/lineagekit) - A python library with genealogy methods
 - [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) - Implementing a ChatGPT-like LLM in PyTorch from scratch, step by step
 - [nschloe/tiptop](https://github.com/nschloe/tiptop) - :desktop_computer: Command-line system monitoring
-- [Textualize/frogmouth](https://github.com/Textualize/frogmouth) - A Markdown browser for your terminal
