@@ -34,8 +34,8 @@
 ### ⭐ Recent Stars
 
 
-- [omerg/react-tech-radar](https://github.com/omerg/react-tech-radar) - A React Component for Tech Radar inspired by ThoughtWorks&#39; technology decision sharing project
-- [razbensimon/react-vis-timeline](https://github.com/razbensimon/react-vis-timeline) - React component for the vis-timeline module
-- [mailtop/horizontal-timeline](https://github.com/mailtop/horizontal-timeline) - Horizontal timeline component
-- [plouc/nivo](https://github.com/plouc/nivo) - nivo provides a rich set of dataviz components, built on top of the awesome d3 and React libraries
-- [tholman/github-corners](https://github.com/tholman/github-corners) - A fresher &#34;Fork me on GitHub&#34; callout.
+- [SimGus/Chatette](https://github.com/SimGus/Chatette) - A powerful dataset generator for Rasa NLU, inspired by Chatito
+- [axa-group/nlp.js](https://github.com/axa-group/nlp.js) - An NLP library for building bots, with entity extraction, sentiment analysis, automatic language identify, and so more
+- [deeppavlov/DeepPavlov](https://github.com/deeppavlov/DeepPavlov) - An open source library for deep learning end-to-end dialog systems and chatbots.
+- [Farama-Foundation/Gymnasium](https://github.com/Farama-Foundation/Gymnasium) - An API standard for single-agent reinforcement learning environments, with popular reference environments and related utilities (formerly Gym)
+- [openai/gym](https://github.com/openai/gym) - A toolkit for developing and comparing reinforcement learning algorithms.
