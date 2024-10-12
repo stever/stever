@@ -34,8 +34,8 @@
 ### ⭐ Recent Stars
 
 
+- [Graylog2/graylog-docker](https://github.com/Graylog2/graylog-docker) - Official Graylog Docker image
+- [clintmcmahon/azure-ad-b2c-user-manager](https://github.com/clintmcmahon/azure-ad-b2c-user-manager) - Example project to view and edit Azure AD B2C user properties, extension attributes and custom properties
 - [aourednik/historical-basemaps](https://github.com/aourednik/historical-basemaps) - Collection of georeferenced boundaries of world countries and cultural regions for use in mapping historical data on global or continental scale
 - [mostekcm/markdown-to-dokuwiki](https://github.com/mostekcm/markdown-to-dokuwiki) - 
 - [SimGus/Chatette](https://github.com/SimGus/Chatette) - A powerful dataset generator for Rasa NLU, inspired by Chatito
-- [axa-group/nlp.js](https://github.com/axa-group/nlp.js) - An NLP library for building bots, with entity extraction, sentiment analysis, automatic language identify, and so more
-- [deeppavlov/DeepPavlov](https://github.com/deeppavlov/DeepPavlov) - An open source library for deep learning end-to-end dialog systems and chatbots.
