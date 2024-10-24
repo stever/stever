@@ -9,7 +9,7 @@
 ### 📓 Recent Gists
 
 
-- [National Library of Scotland Map Stitching](https://gist.github.com/1f1677083cb66600c507ce99941a739c) (2 months ago)
+- [National Library of Scotland Map Stitching](https://gist.github.com/1f1677083cb66600c507ce99941a739c) (3 months ago)
 - [Show the number of committers in a repository in the last 90 days](https://gist.github.com/4b9e58ab4c65a1b79260e5830a9d20c9) (3 months ago)
 - [Bash alias to list docker processes sorted by name](https://gist.github.com/5861c61e287c62768216240f38e3dd60) (2 years ago)
 - [Raspberry Pi Benchmark Suite - Phoronix](https://gist.github.com/970745eaf2e001647d47dfc30786bc66) (3 years ago)
@@ -34,8 +34,8 @@
 ### ⭐ Recent Stars
 
 
-- [opensearch-project/opensearch-py](https://github.com/opensearch-project/opensearch-py) - Python Client for OpenSearch
-- [lukes/ISO-3166-Countries-with-Regional-Codes](https://github.com/lukes/ISO-3166-Countries-with-Regional-Codes) - ISO 3166-1 country lists merged with their UN Geoscheme regional codes in ready-to-use JSON, XML, CSV data sets
-- [RainLoop/rainloop-webmail](https://github.com/RainLoop/rainloop-webmail) - Simple, modern &amp; fast web-based email client
-- [Graylog2/graylog-docker](https://github.com/Graylog2/graylog-docker) - Official Graylog Docker image
-- [clintmcmahon/azure-ad-b2c-user-manager](https://github.com/clintmcmahon/azure-ad-b2c-user-manager) - Example project to view and edit Azure AD B2C user properties, extension attributes and custom properties
+- [obsidiandynamics/kafdrop](https://github.com/obsidiandynamics/kafdrop) - Kafka Web UI
+- [provectus/kafka-ui](https://github.com/provectus/kafka-ui) - Open-Source Web UI for Apache Kafka Management
+- [kubernetes-client/python](https://github.com/kubernetes-client/python) - Official Python client library for kubernetes
+- [bytenik/Seq.App.Slack](https://github.com/bytenik/Seq.App.Slack) - An app for Seq (http://getseq.net) that forwards messages to Slack.
+- [datalust/seq-logging](https://github.com/datalust/seq-logging) - A Node.js client for the Seq HTTP ingestion API
