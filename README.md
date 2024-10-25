@@ -34,8 +34,8 @@
 ### ⭐ Recent Stars
 
 
+- [GoogleChrome/web-vitals](https://github.com/GoogleChrome/web-vitals) - Essential metrics for a healthy site.
+- [pimterry/loglevel](https://github.com/pimterry/loglevel) - :ledger: Minimal lightweight logging for JavaScript, adding reliable log level methods to wrap any available console.log methods
 - [obsidiandynamics/kafdrop](https://github.com/obsidiandynamics/kafdrop) - Kafka Web UI
 - [provectus/kafka-ui](https://github.com/provectus/kafka-ui) - Open-Source Web UI for Apache Kafka Management
 - [kubernetes-client/python](https://github.com/kubernetes-client/python) - Official Python client library for kubernetes
-- [bytenik/Seq.App.Slack](https://github.com/bytenik/Seq.App.Slack) - An app for Seq (http://getseq.net) that forwards messages to Slack.
-- [datalust/seq-logging](https://github.com/datalust/seq-logging) - A Node.js client for the Seq HTTP ingestion API
