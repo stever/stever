@@ -34,8 +34,8 @@
 ### ⭐ Recent Stars
 
 
+- [earwig/mwparserfromhell](https://github.com/earwig/mwparserfromhell) - A Python parser for MediaWiki wikicode
+- [gnosygnu/xowa](https://github.com/gnosygnu/xowa) - xowa offline wiki application
+- [nrgapple/historic-country-borders-app](https://github.com/nrgapple/historic-country-borders-app) - Visualize country borders from different times in history (2000 BC-1994)
+- [aniftyco/awesome-tailwindcss](https://github.com/aniftyco/awesome-tailwindcss) - 😎 Awesome things related to Tailwind CSS
 - [GoogleChrome/web-vitals](https://github.com/GoogleChrome/web-vitals) - Essential metrics for a healthy site.
-- [pimterry/loglevel](https://github.com/pimterry/loglevel) - :ledger: Minimal lightweight logging for JavaScript, adding reliable log level methods to wrap any available console.log methods
-- [obsidiandynamics/kafdrop](https://github.com/obsidiandynamics/kafdrop) - Kafka Web UI
-- [provectus/kafka-ui](https://github.com/provectus/kafka-ui) - Open-Source Web UI for Apache Kafka Management
-- [kubernetes-client/python](https://github.com/kubernetes-client/python) - Official Python client library for kubernetes
