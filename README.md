@@ -34,8 +34,8 @@
 ### ⭐ Recent Stars
 
 
+- [pytorch/executorch](https://github.com/pytorch/executorch) - On-device AI across mobile, embedded and edge for PyTorch
+- [nextui-org/tailwind-variants](https://github.com/nextui-org/tailwind-variants) - 🦄 Tailwindcss first-class variant API
+- [nextui-org/nextui](https://github.com/nextui-org/nextui) - 🚀   Beautiful, fast and modern React UI library.
 - [earwig/mwparserfromhell](https://github.com/earwig/mwparserfromhell) - A Python parser for MediaWiki wikicode
 - [gnosygnu/xowa](https://github.com/gnosygnu/xowa) - xowa offline wiki application
-- [nrgapple/historic-country-borders-app](https://github.com/nrgapple/historic-country-borders-app) - Visualize country borders from different times in history (2000 BC-1994)
-- [aniftyco/awesome-tailwindcss](https://github.com/aniftyco/awesome-tailwindcss) - 😎 Awesome things related to Tailwind CSS
-- [GoogleChrome/web-vitals](https://github.com/GoogleChrome/web-vitals) - Essential metrics for a healthy site.
