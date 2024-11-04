@@ -34,8 +34,8 @@
 ### ⭐ Recent Stars
 
 
+- [Elius94/react-photo-sphere-viewer](https://github.com/Elius94/react-photo-sphere-viewer) - Photosphere Viewer for React.JS
+- [rajeevgade/react-360](https://github.com/rajeevgade/react-360) - A Simple and Beautiful 360° Product Viewer built on React.js
 - [authts/oidc-client-ts](https://github.com/authts/oidc-client-ts) - OpenID Connect (OIDC) and OAuth2 protocol support for browser-based JavaScript applications
 - [NotionX/react-notion-x](https://github.com/NotionX/react-notion-x) - Fast and accurate React renderer for Notion. TS batteries included. ⚡️
 - [pytorch/executorch](https://github.com/pytorch/executorch) - On-device AI across mobile, embedded and edge for PyTorch
-- [nextui-org/tailwind-variants](https://github.com/nextui-org/tailwind-variants) - 🦄 Tailwindcss first-class variant API
-- [nextui-org/nextui](https://github.com/nextui-org/nextui) - 🚀   Beautiful, fast and modern React UI library.
