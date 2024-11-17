@@ -34,8 +34,8 @@
 ### ⭐ Recent Stars
 
 
+- [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community.
 - [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models
 - [Gyurmatag/note-blocks](https://github.com/Gyurmatag/note-blocks) - 
 - [upstash/ratelimit-js](https://github.com/upstash/ratelimit-js) - Rate limiting library for serverless runtimes
 - [dockur/windows](https://github.com/dockur/windows) - Windows inside a Docker container.
-- [Elius94/react-photo-sphere-viewer](https://github.com/Elius94/react-photo-sphere-viewer) - Photosphere Viewer for React.JS
