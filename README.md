@@ -34,8 +34,8 @@
 ### ⭐ Recent Stars
 
 
+- [Nicolepcx/transformers-the-definitive-guide](https://github.com/Nicolepcx/transformers-the-definitive-guide) - This is the official repository for the book Transformers - The Definitive Guide
 - [vercel/ai-sdk-rag-starter](https://github.com/vercel/ai-sdk-rag-starter) - 
 - [vercel/modelfusion](https://github.com/vercel/modelfusion) - The TypeScript library for building AI applications.
 - [vercel/ai](https://github.com/vercel/ai) - Build AI-powered applications with React, Svelte, Vue, and Solid
 - [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community.
-- [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models
