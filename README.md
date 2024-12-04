@@ -34,8 +34,8 @@
 ### ⭐ Recent Stars
 
 
+- [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first.
 - [hluk/CopyQ](https://github.com/hluk/CopyQ) - Clipboard manager with advanced features
 - [Nicolepcx/transformers-the-definitive-guide](https://github.com/Nicolepcx/transformers-the-definitive-guide) - This is the official repository for the book Transformers - The Definitive Guide
 - [vercel/ai-sdk-rag-starter](https://github.com/vercel/ai-sdk-rag-starter) - 
 - [vercel/modelfusion](https://github.com/vercel/modelfusion) - The TypeScript library for building AI applications.
-- [vercel/ai](https://github.com/vercel/ai) - Build AI-powered applications with React, Svelte, Vue, and Solid
