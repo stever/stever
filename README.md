@@ -34,8 +34,8 @@
 ### ⭐ Recent Stars
 
 
+- [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [hetznercloud/cli](https://github.com/hetznercloud/cli) - A command-line interface for Hetzner Cloud
 - [einar-saukas/ZX1](https://github.com/einar-saukas/ZX1) - Simpler data compressor for 8-bit computers and low-end platforms
 - [spectrumforeveryone/zx-roms](https://github.com/spectrumforeveryone/zx-roms) - 
 - [patrick91/rich-toolkit](https://github.com/patrick91/rich-toolkit) - Opinionated components for Rich
-- [home-assistant/operating-system](https://github.com/home-assistant/operating-system) - :beginner: Home Assistant Operating System
