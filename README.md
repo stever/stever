@@ -9,7 +9,7 @@
 ### 📓 Recent Gists
 
 
-- [National Library of Scotland Map Stitching](https://gist.github.com/1f1677083cb66600c507ce99941a739c) (4 months ago)
+- [National Library of Scotland Map Stitching](https://gist.github.com/1f1677083cb66600c507ce99941a739c) (5 months ago)
 - [Show the number of committers in a repository in the last 90 days](https://gist.github.com/4b9e58ab4c65a1b79260e5830a9d20c9) (5 months ago)
 - [Bash alias to list docker processes sorted by name](https://gist.github.com/5861c61e287c62768216240f38e3dd60) (2 years ago)
 - [Raspberry Pi Benchmark Suite - Phoronix](https://gist.github.com/970745eaf2e001647d47dfc30786bc66) (3 years ago)
@@ -34,8 +34,8 @@
 ### ⭐ Recent Stars
 
 
+- [JPhilipp/QuestML](https://github.com/JPhilipp/QuestML) - A vintage release of the Quest Markup Language to create Choose Your Own Adventure games &amp; apps. Vintage release! Uses Python, PHP, VB.
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [hetznercloud/cli](https://github.com/hetznercloud/cli) - A command-line interface for Hetzner Cloud
 - [einar-saukas/ZX1](https://github.com/einar-saukas/ZX1) - Simpler data compressor for 8-bit computers and low-end platforms
 - [spectrumforeveryone/zx-roms](https://github.com/spectrumforeveryone/zx-roms) - 
-- [patrick91/rich-toolkit](https://github.com/patrick91/rich-toolkit) - Opinionated components for Rich
