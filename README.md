@@ -34,7 +34,7 @@
 ### ⭐ Recent Stars
 
 
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, Mistral, Gemma 2, and other large language models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, Phi 4, Gemma 2, and other large language models.
 - [Threetwosevensixseven/NXtel](https://github.com/Threetwosevensixseven/NXtel) - Videotex TCP/IP server and client for the ZX Spectrum Next™.
 - [JPhilipp/QuestML](https://github.com/JPhilipp/QuestML) - A vintage release of the Quest Markup Language to create Choose Your Own Adventure games &amp; apps. Vintage release! Uses Python, PHP, VB.
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
