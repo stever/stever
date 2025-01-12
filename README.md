@@ -34,8 +34,8 @@
 ### ⭐ Recent Stars
 
 
+- [WeidiDeng/caddy-cloudflare-ip](https://github.com/WeidiDeng/caddy-cloudflare-ip) - 
+- [trecenti/tech-radar](https://github.com/trecenti/tech-radar) - 
+- [bdargan/techradar](https://github.com/bdargan/techradar) - Build your own Technology Radar. Inspired by ThoughtWorks Technology Radar.
 - [zxwanderer/png2scr](https://github.com/zxwanderer/png2scr) - PNG to ZX Spectrum SCR converter
 - [thoughtworks/build-your-own-radar](https://github.com/thoughtworks/build-your-own-radar) - A library that generates an interactive radar, inspired by https://thoughtworks.com/radar/.
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, Phi 4, Gemma 2, and other large language models.
-- [Threetwosevensixseven/NXtel](https://github.com/Threetwosevensixseven/NXtel) - Videotex TCP/IP server and client for the ZX Spectrum Next™.
-- [JPhilipp/QuestML](https://github.com/JPhilipp/QuestML) - A vintage release of the Quest Markup Language to create Choose Your Own Adventure games &amp; apps. Vintage release! Uses Python, PHP, VB.
