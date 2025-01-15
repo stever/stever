@@ -34,8 +34,8 @@
 ### ⭐ Recent Stars
 
 
+- [cline/cline](https://github.com/cline/cline) - Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, using the browser, and more with your permission every step of the way.
+- [FormidableLabs/spectacle](https://github.com/FormidableLabs/spectacle) - A React-based library for creating sleek presentations using JSX syntax that gives you the ability to live demo your code.
+- [hakimel/reveal.js](https://github.com/hakimel/reveal.js) - The HTML Presentation Framework
 - [WeidiDeng/caddy-cloudflare-ip](https://github.com/WeidiDeng/caddy-cloudflare-ip) - 
 - [trecenti/tech-radar](https://github.com/trecenti/tech-radar) - 
-- [bdargan/techradar](https://github.com/bdargan/techradar) - Build your own Technology Radar. Inspired by ThoughtWorks Technology Radar.
-- [zxwanderer/png2scr](https://github.com/zxwanderer/png2scr) - PNG to ZX Spectrum SCR converter
-- [thoughtworks/build-your-own-radar](https://github.com/thoughtworks/build-your-own-radar) - A library that generates an interactive radar, inspired by https://thoughtworks.com/radar/.
