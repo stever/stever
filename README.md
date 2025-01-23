@@ -34,8 +34,8 @@
 ### ⭐ Recent Stars
 
 
+- [richardgiddings/metoffice-3hourlyforecast](https://github.com/richardgiddings/metoffice-3hourlyforecast) - A React app that gets a UK 3 hourly forecast for a specified location from http://www.metoffice.gov.uk/datapoint/. I have written a blog post on my experience creating this application on my blog at https://blog.richardgiddings.co.uk/displaying-met-office-data-using-react/
+- [zimboflyman/livewind-ts](https://github.com/zimboflyman/livewind-ts) - Live wind tracker using Metoffice API with React.js, reCharts, Styled-components and a dash of lodash :)
+- [farahat80/react-open-weather](https://github.com/farahat80/react-open-weather) - React open weather is a React Component loading forecast data from Various weather providers (currently OpenWeather, WeatherBit and VisualCrossing)
+- [containers/podman](https://github.com/containers/podman) - Podman: A tool for managing OCI containers and pods.
 - [arut/nginx-rtmp-module](https://github.com/arut/nginx-rtmp-module) - NGINX-based Media Streaming Server
-- [AirenSoft/OvenMediaEngine](https://github.com/AirenSoft/OvenMediaEngine) - OvenMediaEngine (OME) is a Sub-Second Latency Live Streaming Server with Large-Scale and High-Definition. #WebRTC #LLHLS
-- [sampotts/plyr](https://github.com/sampotts/plyr) - A simple HTML5, YouTube and Vimeo player
-- [cline/cline](https://github.com/cline/cline) - Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, using the browser, and more with your permission every step of the way.
-- [FormidableLabs/spectacle](https://github.com/FormidableLabs/spectacle) - A React-based library for creating sleek presentations using JSX syntax that gives you the ability to live demo your code.
