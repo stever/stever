@@ -34,8 +34,8 @@
 ### ⭐ Recent Stars
 
 
-- [richardgiddings/metoffice-3hourlyforecast](https://github.com/richardgiddings/metoffice-3hourlyforecast) - A React app that gets a UK 3 hourly forecast for a specified location from http://www.metoffice.gov.uk/datapoint/. I have written a blog post on my experience creating this application on my blog at https://blog.richardgiddings.co.uk/displaying-met-office-data-using-react/
-- [zimboflyman/livewind-ts](https://github.com/zimboflyman/livewind-ts) - Live wind tracker using Metoffice API with React.js, reCharts, Styled-components and a dash of lodash :)
-- [farahat80/react-open-weather](https://github.com/farahat80/react-open-weather) - React open weather is a React Component loading forecast data from Various weather providers (currently OpenWeather, WeatherBit and VisualCrossing)
-- [containers/podman](https://github.com/containers/podman) - Podman: A tool for managing OCI containers and pods.
-- [arut/nginx-rtmp-module](https://github.com/arut/nginx-rtmp-module) - NGINX-based Media Streaming Server
+- [jquense/react-big-calendar](https://github.com/jquense/react-big-calendar) - gcal/outlook like calendar component
+- [hbatalhaStch/react-big-scheduler](https://github.com/hbatalhaStch/react-big-scheduler) - A scheduler and resource planning component built for React and made for modern browsers
+- [StephenChou1017/react-big-scheduler](https://github.com/StephenChou1017/react-big-scheduler) - A scheduler and resource planning component built for React and made for modern browsers (IE10&#43;)
+- [react-scheduler/react-big-schedule](https://github.com/react-scheduler/react-big-schedule) - React Big Schedule is a powerful and intuitive scheduler and resource planning solution built with React.
+- [UretzkyZvi/planner](https://github.com/UretzkyZvi/planner) - Planner Component: A React component for dynamic appointment management. Features drag-and-drop, date range selections, and integrates with shadcn/ui. Perfect for developers enhancing apps with efficient scheduling capabilities.
