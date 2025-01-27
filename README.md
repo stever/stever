@@ -34,8 +34,8 @@
 ### ⭐ Recent Stars
 
 
-- [jquense/react-big-calendar](https://github.com/jquense/react-big-calendar) - gcal/outlook like calendar component
-- [hbatalhaStch/react-big-scheduler](https://github.com/hbatalhaStch/react-big-scheduler) - A scheduler and resource planning component built for React and made for modern browsers
-- [StephenChou1017/react-big-scheduler](https://github.com/StephenChou1017/react-big-scheduler) - A scheduler and resource planning component built for React and made for modern browsers (IE10&#43;)
-- [react-scheduler/react-big-schedule](https://github.com/react-scheduler/react-big-schedule) - React Big Schedule is a powerful and intuitive scheduler and resource planning solution built with React.
-- [UretzkyZvi/planner](https://github.com/UretzkyZvi/planner) - Planner Component: A React component for dynamic appointment management. Features drag-and-drop, date range selections, and integrates with shadcn/ui. Perfect for developers enhancing apps with efficient scheduling capabilities.
+- [Umio-Yasuno/amdgpu_top](https://github.com/Umio-Yasuno/amdgpu_top) - Tool to display AMDGPU usage
+- [deepseek-ai/DeepSeek-Coder](https://github.com/deepseek-ai/DeepSeek-Coder) - DeepSeek Coder: Let the Code Write Itself
+- [deepseek-ai/DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1) - 
+- [xlwings/xlwings](https://github.com/xlwings/xlwings) - xlwings is a Python library that makes it easy to call Python from Excel and vice versa. It works with Excel on Windows and macOS as well as with Google Sheets and Excel on the web. 
+- [aicells/aicells](https://github.com/aicells/aicells) - AIcells is an Excel add-in that lets you work with Python functions in Excel. Statistics, Bayesian theory, Machine Learning and Optimization in Excel cells. Many useful analytical methods and Python functions. aicells is a open source licensed Python library that makes it easy to make analysis in Excel and even continue in Python. It works with Microsoft Excel on Windows and built on xlwings.
