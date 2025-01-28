@@ -34,8 +34,8 @@
 ### ⭐ Recent Stars
 
 
+- [huggingface/open-r1](https://github.com/huggingface/open-r1) - Fully open reproduction of DeepSeek-R1
 - [Umio-Yasuno/amdgpu_top](https://github.com/Umio-Yasuno/amdgpu_top) - Tool to display AMDGPU usage
 - [deepseek-ai/DeepSeek-Coder](https://github.com/deepseek-ai/DeepSeek-Coder) - DeepSeek Coder: Let the Code Write Itself
 - [deepseek-ai/DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1) - 
 - [xlwings/xlwings](https://github.com/xlwings/xlwings) - xlwings is a Python library that makes it easy to call Python from Excel and vice versa. It works with Excel on Windows and macOS as well as with Google Sheets and Excel on the web. 
-- [aicells/aicells](https://github.com/aicells/aicells) - AIcells is an Excel add-in that lets you work with Python functions in Excel. Statistics, Bayesian theory, Machine Learning and Optimization in Excel cells. Many useful analytical methods and Python functions. aicells is a open source licensed Python library that makes it easy to make analysis in Excel and even continue in Python. It works with Microsoft Excel on Windows and built on xlwings.
