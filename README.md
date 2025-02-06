@@ -34,8 +34,8 @@
 ### ⭐ Recent Stars
 
 
+- [MetOffice/weather_datahub_utilities](https://github.com/MetOffice/weather_datahub_utilities) - Utilities for customers to use with the Weather DataHub
+- [OrdnanceSurvey/os-api-branding](https://github.com/OrdnanceSurvey/os-api-branding) - Branding for users developing solutions using OS data supplied via our APIs.
 - [minio/minio](https://github.com/minio/minio) - MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license.
 - [spencermountain/wtf_wikipedia](https://github.com/spencermountain/wtf_wikipedia) - a pretty-committed wikipedia markup parser
 - [attardi/wikiextractor](https://github.com/attardi/wikiextractor) - A tool for extracting plain text from Wikipedia dumps
-- [QwenLM/Qwen2.5](https://github.com/QwenLM/Qwen2.5) - Qwen2.5 is the large language model series developed by Qwen team, Alibaba Cloud.
-- [run-llama/llama_index](https://github.com/run-llama/llama_index) - LlamaIndex is the leading framework for building LLM-powered agents over your data.
