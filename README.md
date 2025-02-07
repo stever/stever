@@ -34,8 +34,8 @@
 ### ⭐ Recent Stars
 
 
+- [huggingface/smolagents](https://github.com/huggingface/smolagents) - 🤗 smolagents: a barebones library for agents. Agents write python code to call tools and orchestrate other agents.
+- [simplescaling/s1](https://github.com/simplescaling/s1) - s1: Simple test-time scaling
 - [MetOffice/weather_datahub_utilities](https://github.com/MetOffice/weather_datahub_utilities) - Utilities for customers to use with the Weather DataHub
 - [OrdnanceSurvey/os-api-branding](https://github.com/OrdnanceSurvey/os-api-branding) - Branding for users developing solutions using OS data supplied via our APIs.
 - [minio/minio](https://github.com/minio/minio) - MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license.
-- [spencermountain/wtf_wikipedia](https://github.com/spencermountain/wtf_wikipedia) - a pretty-committed wikipedia markup parser
-- [attardi/wikiextractor](https://github.com/attardi/wikiextractor) - A tool for extracting plain text from Wikipedia dumps
