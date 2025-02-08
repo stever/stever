@@ -34,8 +34,8 @@
 ### ⭐ Recent Stars
 
 
-- [huggingface/smolagents](https://github.com/huggingface/smolagents) - 🤗 smolagents: a barebones library for agents. Agents write python code to call tools and orchestrate other agents.
-- [simplescaling/s1](https://github.com/simplescaling/s1) - s1: Simple test-time scaling
-- [MetOffice/weather_datahub_utilities](https://github.com/MetOffice/weather_datahub_utilities) - Utilities for customers to use with the Weather DataHub
-- [OrdnanceSurvey/os-api-branding](https://github.com/OrdnanceSurvey/os-api-branding) - Branding for users developing solutions using OS data supplied via our APIs.
-- [minio/minio](https://github.com/minio/minio) - MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license.
+- [interline-io/planetutils](https://github.com/interline-io/planetutils) - Scripts and a Docker container to maintain your own OpenStreetMap planet, terrain tiles, &amp; Valhalla Tilepacks
+- [racemap/elevation-service](https://github.com/racemap/elevation-service) - Self-hosted elevation service with Mapzen terrain data
+- [tilezen/joerd](https://github.com/tilezen/joerd) - Joerd can be used to download, merge and generate tiles from digital elevation data
+- [hyperknot/openfreemap](https://github.com/hyperknot/openfreemap) - Free and open-source map hosting solution with custom styles for websites and apps, using OpenStreetMap data
+- [openmaptiles/maptiler-terrain-gl-style](https://github.com/openmaptiles/maptiler-terrain-gl-style) - A base map ideal for outdoor activities featuring hill shading and contour lines
