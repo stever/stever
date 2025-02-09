@@ -34,8 +34,8 @@
 ### ⭐ Recent Stars
 
 
+- [hyperknot/openfreemap-styles](https://github.com/hyperknot/openfreemap-styles) - Styles for OpenFreeMap
 - [interline-io/planetutils](https://github.com/interline-io/planetutils) - Scripts and a Docker container to maintain your own OpenStreetMap planet, terrain tiles, &amp; Valhalla Tilepacks
 - [racemap/elevation-service](https://github.com/racemap/elevation-service) - Self-hosted elevation service with Mapzen terrain data
 - [tilezen/joerd](https://github.com/tilezen/joerd) - Joerd can be used to download, merge and generate tiles from digital elevation data
 - [hyperknot/openfreemap](https://github.com/hyperknot/openfreemap) - Free and open-source map hosting solution with custom styles for websites and apps, using OpenStreetMap data
-- [openmaptiles/maptiler-terrain-gl-style](https://github.com/openmaptiles/maptiler-terrain-gl-style) - A base map ideal for outdoor activities featuring hill shading and contour lines
