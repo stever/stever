@@ -34,8 +34,8 @@
 ### ⭐ Recent Stars
 
 
+- [escaduto/Multidirectional-Hillshade](https://github.com/escaduto/Multidirectional-Hillshade) - 
+- [syncpoint/terrain-rgb](https://github.com/syncpoint/terrain-rgb) - A detailed tutorial about how to convert geo-tiff files containing Digital Elevation Model (DEM) data into a pyramid of png tiles
+- [nst-guide/terrain](https://github.com/nst-guide/terrain) - Generate contours, hillshade, Terrain RGB, slope-angle shading tiles from elevation data.
 - [hyperknot/openfreemap-styles](https://github.com/hyperknot/openfreemap-styles) - Styles for OpenFreeMap
 - [interline-io/planetutils](https://github.com/interline-io/planetutils) - Scripts and a Docker container to maintain your own OpenStreetMap planet, terrain tiles, &amp; Valhalla Tilepacks
-- [racemap/elevation-service](https://github.com/racemap/elevation-service) - Self-hosted elevation service with Mapzen terrain data
-- [tilezen/joerd](https://github.com/tilezen/joerd) - Joerd can be used to download, merge and generate tiles from digital elevation data
-- [hyperknot/openfreemap](https://github.com/hyperknot/openfreemap) - Free and open-source map hosting solution with custom styles for websites and apps, using OpenStreetMap data
