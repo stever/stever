@@ -34,8 +34,8 @@
 ### ⭐ Recent Stars
 
 
-- [escaduto/Multidirectional-Hillshade](https://github.com/escaduto/Multidirectional-Hillshade) - 
-- [syncpoint/terrain-rgb](https://github.com/syncpoint/terrain-rgb) - A detailed tutorial about how to convert geo-tiff files containing Digital Elevation Model (DEM) data into a pyramid of png tiles
-- [nst-guide/terrain](https://github.com/nst-guide/terrain) - Generate contours, hillshade, Terrain RGB, slope-angle shading tiles from elevation data.
-- [hyperknot/openfreemap-styles](https://github.com/hyperknot/openfreemap-styles) - Styles for OpenFreeMap
-- [interline-io/planetutils](https://github.com/interline-io/planetutils) - Scripts and a Docker container to maintain your own OpenStreetMap planet, terrain tiles, &amp; Valhalla Tilepacks
+- [openglobus/gdal-rio](https://github.com/openglobus/gdal-rio) - 
+- [visgl/loaders.gl](https://github.com/visgl/loaders.gl) - Loaders for big data visualization. Website:
+- [igd-geo/schwarzwald](https://github.com/igd-geo/schwarzwald) - Create 3D Tiles and Potree tiles from raw point clouds
+- [potree/potree](https://github.com/potree/potree) - WebGL point cloud viewer for large datasets
+- [mapbox/rio-rgbify](https://github.com/mapbox/rio-rgbify) - Encoded arbitrary bit depth rasters in pseudo base-256
