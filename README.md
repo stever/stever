@@ -34,7 +34,7 @@
 ### ⭐ Recent Stars
 
 
-- [vitabaks/autobase](https://github.com/vitabaks/autobase) - Automated database platform for PostgreSQL® - Your self-hosted DBaaS
+- [vitabaks/autobase](https://github.com/vitabaks/autobase) - Automated database platform for PostgreSQL® - Your own DBaaS
 - [openglobus/gdal-rio](https://github.com/openglobus/gdal-rio) - 
 - [visgl/loaders.gl](https://github.com/visgl/loaders.gl) - Loaders for big data visualization. Website:
 - [igd-geo/schwarzwald](https://github.com/igd-geo/schwarzwald) - Create 3D Tiles and Potree tiles from raw point clouds
