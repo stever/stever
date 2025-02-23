@@ -34,8 +34,8 @@
 ### ⭐ Recent Stars
 
 
+- [acalcutt/jaxa_AW3D30_to_MBTiles](https://github.com/acalcutt/jaxa_AW3D30_to_MBTiles) - Scripts to create a mbtiles file from jaxa AW3D30 elevation images. To download jaxa data please register an account with them first.
+- [maplibre/demotiles](https://github.com/maplibre/demotiles) - Demo vector tiles and map style for web, helloworld and CI tests @MapLibre. Hosted directly on GitHub Pages, serverless, no keys.
+- [klokantech/vector-tiles-sample](https://github.com/klokantech/vector-tiles-sample) - Vector tiles sample MBTiles file with PBF&#39;s made by mapnik via MapBox Studio
 - [vitabaks/autobase](https://github.com/vitabaks/autobase) - Automated database platform for PostgreSQL® - Your own DBaaS
 - [openglobus/gdal-rio](https://github.com/openglobus/gdal-rio) - 
-- [visgl/loaders.gl](https://github.com/visgl/loaders.gl) - Loaders for big data visualization. Website:
-- [igd-geo/schwarzwald](https://github.com/igd-geo/schwarzwald) - Create 3D Tiles and Potree tiles from raw point clouds
-- [potree/potree](https://github.com/potree/potree) - WebGL point cloud viewer for large datasets
