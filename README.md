@@ -34,8 +34,8 @@
 ### ⭐ Recent Stars
 
 
+- [inmagik/world-countries](https://github.com/inmagik/world-countries) - Data and geographic extents of countries of the world as static jsons and geojsons
+- [komsitr/country-centroid](https://github.com/komsitr/country-centroid) - Country centroid geolocation with country code ISO 3166-1 alpha-2 and alpha-3 
+- [gavinr/world-countries-centroids](https://github.com/gavinr/world-countries-centroids) - Center points of world countries - CSV and GeoJSON
 - [acalcutt/jaxa_AW3D30_to_MBTiles](https://github.com/acalcutt/jaxa_AW3D30_to_MBTiles) - Scripts to create a mbtiles file from jaxa AW3D30 elevation images. To download jaxa data please register an account with them first.
 - [maplibre/demotiles](https://github.com/maplibre/demotiles) - Demo vector tiles and map style for web, helloworld and CI tests @MapLibre. Hosted directly on GitHub Pages, serverless, no keys.
-- [klokantech/vector-tiles-sample](https://github.com/klokantech/vector-tiles-sample) - Vector tiles sample MBTiles file with PBF&#39;s made by mapnik via MapBox Studio
-- [vitabaks/autobase](https://github.com/vitabaks/autobase) - Automated database platform for PostgreSQL® - Your own DBaaS
-- [openglobus/gdal-rio](https://github.com/openglobus/gdal-rio) - 
