@@ -34,8 +34,8 @@
 ### ⭐ Recent Stars
 
 
+- [warpdotdev/themes](https://github.com/warpdotdev/themes) - Custom themes repository for Warp, a blazingly fast modern terminal built in Rust.
 - [warpdotdev/Warp](https://github.com/warpdotdev/Warp) - Warp is a modern, Rust-based terminal with AI built in so you and your team can build great software, faster.
 - [defensestation/blocknote-comments](https://github.com/defensestation/blocknote-comments) - comments plugin for blocknote
 - [rangelkoli/blocknote-draw](https://github.com/rangelkoli/blocknote-draw) - 
 - [defensestation/awesome-blocknote](https://github.com/defensestation/awesome-blocknote) - A curated list of awesome BlockNote tools, libraries and resources.
-- [defensestation/blocknote-mermaid](https://github.com/defensestation/blocknote-mermaid) - Blocknote plugin for mermaid
