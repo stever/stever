@@ -34,8 +34,8 @@
 ### ⭐ Recent Stars
 
 
+- [openmaptiles/fonts](https://github.com/openmaptiles/fonts) - Font glyphs for GL Styles with open fonts 
 - [openmaptiles/osm-liberty-gl-style](https://github.com/openmaptiles/osm-liberty-gl-style) - A free Mapbox GL basemap for everyone
 - [flother/spreet](https://github.com/flother/spreet) - Create a spritesheet from a set of SVG images
 - [warpdotdev/themes](https://github.com/warpdotdev/themes) - Custom themes repository for Warp, a blazingly fast modern terminal built in Rust.
 - [warpdotdev/Warp](https://github.com/warpdotdev/Warp) - Warp is a modern, Rust-based terminal with AI built in so you and your team can build great software, faster.
-- [defensestation/blocknote-comments](https://github.com/defensestation/blocknote-comments) - comments plugin for blocknote
