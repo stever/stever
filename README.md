@@ -34,8 +34,8 @@
 ### ⭐ Recent Stars
 
 
+- [maplibre/maplibre-gl-inspect](https://github.com/maplibre/maplibre-gl-inspect) - Maplibre GL Inspect adds an inspect control to maplibre-gl-js to view all features of the vector sources and allows hovering over features to see their properties.
+- [Aider-AI/aider](https://github.com/Aider-AI/aider) - aider is AI pair programming in your terminal
+- [ActiveCampaign/postmark.js](https://github.com/ActiveCampaign/postmark.js) - Official Node.js library for the Postmark API
+- [windmill-labs/windmill](https://github.com/windmill-labs/windmill) - Open-source developer platform to power your entire infra and turn scripts into webhooks, workflows and UIs. Fastest workflow engine (13x vs Airflow). Open-source alternative to Retool and Temporal.
 - [openmaptiles/fonts](https://github.com/openmaptiles/fonts) - Font glyphs for GL Styles with open fonts 
-- [openmaptiles/osm-liberty-gl-style](https://github.com/openmaptiles/osm-liberty-gl-style) - A free Mapbox GL basemap for everyone
-- [flother/spreet](https://github.com/flother/spreet) - Create a spritesheet from a set of SVG images
-- [warpdotdev/themes](https://github.com/warpdotdev/themes) - Custom themes repository for Warp, a blazingly fast modern terminal built in Rust.
-- [warpdotdev/Warp](https://github.com/warpdotdev/Warp) - Warp is a modern, Rust-based terminal with AI built in so you and your team can build great software, faster.
