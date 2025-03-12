@@ -34,8 +34,8 @@
 ### ⭐ Recent Stars
 
 
+- [koel/koel](https://github.com/koel/koel) - 🐦 A personal music streaming server that works.
+- [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev) - Trigger.dev – open source background jobs and AI infrastructure
+- [vercel/hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
 - [wiktorn/Overpass-API](https://github.com/wiktorn/Overpass-API) - Overpass API docker image
 - [drolbr/Overpass-API](https://github.com/drolbr/Overpass-API) - A database engine to query the OpenStreetMap data.
-- [sendgrid/sendgrid-nodejs](https://github.com/sendgrid/sendgrid-nodejs) - The Official Twilio SendGrid Led, Community Driven Node.js API Library
-- [maplibre/maplibre-gl-inspect](https://github.com/maplibre/maplibre-gl-inspect) - Maplibre GL Inspect adds an inspect control to maplibre-gl-js to view all features of the vector sources and allows hovering over features to see their properties.
-- [Aider-AI/aider](https://github.com/Aider-AI/aider) - aider is AI pair programming in your terminal
