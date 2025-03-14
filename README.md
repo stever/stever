@@ -10,7 +10,7 @@
 
 
 - [National Library of Scotland Map Stitching](https://gist.github.com/1f1677083cb66600c507ce99941a739c) (7 months ago)
-- [Show the number of committers in a repository in the last 90 days](https://gist.github.com/4b9e58ab4c65a1b79260e5830a9d20c9) (7 months ago)
+- [Show the number of committers in a repository in the last 90 days](https://gist.github.com/4b9e58ab4c65a1b79260e5830a9d20c9) (8 months ago)
 - [Bash alias to list docker processes sorted by name](https://gist.github.com/5861c61e287c62768216240f38e3dd60) (2 years ago)
 - [Raspberry Pi Benchmark Suite - Phoronix](https://gist.github.com/970745eaf2e001647d47dfc30786bc66) (3 years ago)
 - [for https://github.com/go-gitea/gitea/pull/12261](https://gist.github.com/ee14779029bbdbd96f643816b4192c76) (4 years ago)
@@ -34,8 +34,8 @@
 ### ⭐ Recent Stars
 
 
-- [koel/koel](https://github.com/koel/koel) - 🐦 A personal music streaming server that works.
-- [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev) - Trigger.dev – open source background jobs and AI infrastructure
-- [vercel/hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
-- [wiktorn/Overpass-API](https://github.com/wiktorn/Overpass-API) - Overpass API docker image
-- [drolbr/Overpass-API](https://github.com/drolbr/Overpass-API) - A database engine to query the OpenStreetMap data.
+- [frappe/frappe_docker](https://github.com/frappe/frappe_docker) - Docker images for production and development setups of the Frappe framework and ERPNext
+- [frappe/frappe-ui](https://github.com/frappe/frappe-ui) - A set of components and utilities for rapid UI development
+- [frappe/erpnext](https://github.com/frappe/erpnext) - Free and Open Source Enterprise Resource Planning (ERP)
+- [frappe/frappe](https://github.com/frappe/frappe) - Low code web framework for real world applications, in Python and Javascript
+- [frappe/bench](https://github.com/frappe/bench) - CLI to manage Multi-tenant deployments for Frappe apps
