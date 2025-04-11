@@ -34,8 +34,8 @@
 ### ⭐ Recent Stars
 
 
-- [koobo/HippoPlayer](https://github.com/koobo/HippoPlayer) - HippoPlayer - a module player for the classic Amiga
-- [exo-explore/exo](https://github.com/exo-explore/exo) - Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚
-- [casparwylie/cascii-core](https://github.com/casparwylie/cascii-core) - A web-based ASCII and Unicode diagram builder written in vanilla Javascript
-- [suitenumerique/docs](https://github.com/suitenumerique/docs) - A collaborative note taking, wiki and documentation platform that scales. Built with Django and React. Opensource alternative to Notion or Outline.
-- [tracestrack/tracestrack-maps](https://github.com/tracestrack/tracestrack-maps) - The stylesheet for carto and topo maps
+- [nhsconnect/gpconnect-appointment-checker](https://github.com/nhsconnect/gpconnect-appointment-checker) - GP Connect Appointment Checker
+- [nhsconnect/gpconnect](https://github.com/nhsconnect/gpconnect) - GP Connect API specification
+- [nhsconnect/nhslogin](https://github.com/nhsconnect/nhslogin) - NHS login - developer documentation
+- [NHSDigital/hello-world-auth-examples](https://github.com/NHSDigital/hello-world-auth-examples) - 
+- [arnaud-carre/LSPlayer](https://github.com/arnaud-carre/LSPlayer) - Fastest Amiga Module player ever
