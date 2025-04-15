@@ -34,8 +34,8 @@
 ### ⭐ Recent Stars
 
 
+- [ramapcsx2/gbs-control](https://github.com/ramapcsx2/gbs-control) - 
 - [nhsconnect/gpconnect-appointment-checker](https://github.com/nhsconnect/gpconnect-appointment-checker) - GP Connect Appointment Checker
 - [nhsconnect/gpconnect](https://github.com/nhsconnect/gpconnect) - GP Connect API specification
 - [nhsconnect/nhslogin](https://github.com/nhsconnect/nhslogin) - NHS login - developer documentation
 - [NHSDigital/hello-world-auth-examples](https://github.com/NHSDigital/hello-world-auth-examples) - 
-- [arnaud-carre/LSPlayer](https://github.com/arnaud-carre/LSPlayer) - Fastest Amiga Module player ever
