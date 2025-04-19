@@ -34,8 +34,8 @@
 ### ⭐ Recent Stars
 
 
+- [DexterInd/BrickPi3](https://github.com/DexterInd/BrickPi3) - The BrickPi3 connects LEGO Mindstorms with the Raspberry Pi.
 - [reda-marzouk608/scrape-master](https://github.com/reda-marzouk608/scrape-master) - 
 - [ramapcsx2/gbs-control](https://github.com/ramapcsx2/gbs-control) - 
 - [nhsconnect/gpconnect-appointment-checker](https://github.com/nhsconnect/gpconnect-appointment-checker) - GP Connect Appointment Checker
 - [nhsconnect/gpconnect](https://github.com/nhsconnect/gpconnect) - GP Connect API specification
-- [nhsconnect/nhslogin](https://github.com/nhsconnect/nhslogin) - NHS login - developer documentation
