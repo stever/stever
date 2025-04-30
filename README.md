@@ -34,8 +34,8 @@
 ### ⭐ Recent Stars
 
 
+- [eclipse-theia/theia](https://github.com/eclipse-theia/theia) - Eclipse Theia is a cloud &amp; desktop IDE framework implemented in TypeScript.
 - [benweet/stackedit](https://github.com/benweet/stackedit) - In-browser Markdown editor
 - [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
 - [hashicorp/next-mdx-remote](https://github.com/hashicorp/next-mdx-remote) - Load MDX content from anywhere
 - [mdx-editor/editor](https://github.com/mdx-editor/editor) - A rich text editor React component for markdown
-- [mdx-js/mdx](https://github.com/mdx-js/mdx) - Markdown for the component era
