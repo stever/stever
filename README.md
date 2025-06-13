@@ -34,8 +34,8 @@
 ### ⭐ Recent Stars
 
 
+- [AgentDeskAI/browser-tools-mcp](https://github.com/AgentDeskAI/browser-tools-mcp) - Monitor browser logs directly from Cursor and other MCP compatible IDEs.
+- [executeautomation/mcp-playwright](https://github.com/executeautomation/mcp-playwright) - Playwright Model Context Protocol Server - Tool to automate Browsers and APIs in Claude Desktop, Cline, Cursor IDE and More 🔌
+- [co-browser/browser-use-mcp-server](https://github.com/co-browser/browser-use-mcp-server) - Browse the web, directly from Cursor etc.
+- [ppl-ai/modelcontextprotocol](https://github.com/ppl-ai/modelcontextprotocol) - A Model Context Protocol Server connector for Perplexity API, to enable web search without leaving the MCP ecosystem.
 - [DuendeArchive/IdentityModel.OidcClient](https://github.com/DuendeArchive/IdentityModel.OidcClient) - Certified C#/NetStandard OpenID Connect Client Library for native mobile/desktop Applications (RFC 8252)
-- [DuendeSoftware/foss](https://github.com/DuendeSoftware/foss) - Duende&#39;s Free and Open Source software.
-- [jasonjmcghee/claude-debugs-for-you](https://github.com/jasonjmcghee/claude-debugs-for-you) - Enable any LLM (e.g. Claude) to interactively debug any language for you via MCP and a VS Code Extension
-- [undeadpickle/claude-code-mcpinstall](https://github.com/undeadpickle/claude-code-mcpinstall) - Easy guide to installing Claude Code MCPs globally on your machine.
-- [ahujasid/blender-mcp](https://github.com/ahujasid/blender-mcp) - 
