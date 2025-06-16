@@ -34,8 +34,8 @@
 ### ⭐ Recent Stars
 
 
+- [FabrizioMusacchio/GitHub_Flavor_Markdown_CSS](https://github.com/FabrizioMusacchio/GitHub_Flavor_Markdown_CSS) - A GitHub flavored Markdown Style Sheet (CSS)
 - [dwillitzer/claude-settings](https://github.com/dwillitzer/claude-settings) - Claude Code settings and permissions configuration
 - [AgentDeskAI/browser-tools-mcp](https://github.com/AgentDeskAI/browser-tools-mcp) - Monitor browser logs directly from Cursor and other MCP compatible IDEs.
 - [executeautomation/mcp-playwright](https://github.com/executeautomation/mcp-playwright) - Playwright Model Context Protocol Server - Tool to automate Browsers and APIs in Claude Desktop, Cline, Cursor IDE and More 🔌
 - [co-browser/browser-use-mcp-server](https://github.com/co-browser/browser-use-mcp-server) - Browse the web, directly from Cursor etc.
-- [ppl-ai/modelcontextprotocol](https://github.com/ppl-ai/modelcontextprotocol) - A Model Context Protocol Server connector for Perplexity API, to enable web search without leaving the MCP ecosystem.
