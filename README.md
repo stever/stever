@@ -9,7 +9,7 @@
 ### 📓 Recent Gists
 
 
-- [National Library of Scotland Map Stitching](https://gist.github.com/1f1677083cb66600c507ce99941a739c) (10 months ago)
+- [National Library of Scotland Map Stitching](https://gist.github.com/1f1677083cb66600c507ce99941a739c) (11 months ago)
 - [Show the number of committers in a repository in the last 90 days](https://gist.github.com/4b9e58ab4c65a1b79260e5830a9d20c9) (11 months ago)
 - [Bash alias to list docker processes sorted by name](https://gist.github.com/5861c61e287c62768216240f38e3dd60) (2 years ago)
 - [Raspberry Pi Benchmark Suite - Phoronix](https://gist.github.com/970745eaf2e001647d47dfc30786bc66) (3 years ago)
@@ -34,8 +34,8 @@
 ### ⭐ Recent Stars
 
 
-- [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
-- [mrousavy/react-native-mmkv](https://github.com/mrousavy/react-native-mmkv) - ⚡️ The fastest key/value storage for React Native. ~30x faster than AsyncStorage!
-- [FabrizioMusacchio/GitHub_Flavor_Markdown_CSS](https://github.com/FabrizioMusacchio/GitHub_Flavor_Markdown_CSS) - A GitHub flavored Markdown Style Sheet (CSS)
-- [dwillitzer/claude-settings](https://github.com/dwillitzer/claude-settings) - Claude Code settings and permissions configuration
-- [AgentDeskAI/browser-tools-mcp](https://github.com/AgentDeskAI/browser-tools-mcp) - Monitor browser logs directly from Cursor and other MCP compatible IDEs.
+- [cenfun/nextjs-with-playwright](https://github.com/cenfun/nextjs-with-playwright) - 
+- [cenfun/monocart-reporter](https://github.com/cenfun/monocart-reporter) - A playwright test reporter (Node.js)
+- [cenfun/monocart-coverage-reports](https://github.com/cenfun/monocart-coverage-reports) - A code coverage tool to generate native V8 reports or Istanbul reports.
+- [cenfun/nextjs-with-playwright-istanbul](https://github.com/cenfun/nextjs-with-playwright-istanbul) - nextjs-with-playwright-istanbul
+- [anishkny/playwright-test-coverage](https://github.com/anishkny/playwright-test-coverage) - Extends Playwright test to measure code coverage
