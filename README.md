@@ -34,8 +34,8 @@
 ### ⭐ Recent Stars
 
 
+- [serenity-js/serenity-js-cucumber-playwright-template](https://github.com/serenity-js/serenity-js-cucumber-playwright-template) - Test your web apps with Serenity/JS, Playwright and Cucumber.js
 - [cenfun/nextjs-with-playwright](https://github.com/cenfun/nextjs-with-playwright) - 
 - [cenfun/monocart-reporter](https://github.com/cenfun/monocart-reporter) - A playwright test reporter (Node.js)
 - [cenfun/monocart-coverage-reports](https://github.com/cenfun/monocart-coverage-reports) - A code coverage tool to generate native V8 reports or Istanbul reports.
 - [cenfun/nextjs-with-playwright-istanbul](https://github.com/cenfun/nextjs-with-playwright-istanbul) - nextjs-with-playwright-istanbul
-- [anishkny/playwright-test-coverage](https://github.com/anishkny/playwright-test-coverage) - Extends Playwright test to measure code coverage
